@@ -1,11 +1,15 @@
+\section{System Description}
 Consists of:\\
 - Key Object Classes and Actions\\
 - Performance Indicators\\
 - Questions to be answered\\
 - Solution Alternatives \\
 \\
-Key Object Classes:
+\textbf{Key Object Classes:}\\
+In our fuel station we can distinguish several key object clases. All of these classes are stated in table \ref{tab:koc}
+
 \begin{center}
+\begin{table}[h]
 \begin{tabular}{| l | l | l | l | l |}
 \hline
 \textbf{Vehicles} & \textbf{Lanes} & \textbf{Employees} & \textbf{Pumps} & \textbf{Queue Spot}\\
@@ -22,4 +26,31 @@ Key Object Classes:
 - Idle & & & &\\
 \hline
 \end{tabular}
+\caption{Key Object Classes}
+\label{tab:koc}
+\end{table}
 \end{center}
+
+Assumption that only blocks of three lanes are openend and not a subset of a block.
+
+\textbf{Actions:}\\
+- A vehicle arives\\
+- A vehicle leaves/gets blocked\\
+- A cashier starts a shift\\
+- A cashier ends a shift\\
+- A vehicle refuals\\
+- A vehicle pays\\
+- A vehicle waits for the cashier\\
+- A cashier restocks\\
+- A cashier opens lanes\\
+- A cashier closes lanes\\
+- A cashier starts after shift work\\
+- A cashier ends after shift work\\
+
+\textbf{Performance Indicators:}\\
+- (Average) througput times\\
+- Average resource utilization\\
+- Minimum / average / maximum queue sizes\\
+- Cashier costs\\
+- Average waiting time before pump\\
+- Average waiting time after pump

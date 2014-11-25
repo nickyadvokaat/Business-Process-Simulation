@@ -8,8 +8,8 @@ In this section we give a description of the fuel station which is about to be m
 - Solution Alternatives \\
 \\
 \subsection{Key Object Classes}
-In our fuel station we can distinguish several key object classes. All of these classes are stated in table \ref{tab:koc}. The classes we can distinguish are $Vehicle$, $Lanes$, $Employees$, $Pumps$ and $Queue Spot$. The class $Vehicle$ consists of all the types of vehicles that can enter the fuel station. These are all stated in the types, namely $Car, Car \ with \ Trailer$ and $Truck$. All these vehicles have the same states while they are in the fuel station. The firs state is $Arriving$, when a vehicle is in the state $Arriving$ it means that the vehicle has entered the fuel station but has not yet chosen any queue to enter. Obviously the next state $In \ Queue$ means that the vehicle has chosen a queue and is waiting in line. The state $Refueling$ means the vehicle has reached the pump and is now refueling. The state $Waiting \ for \ Cashier$ means the vehicle is done refueling, but has not reached the cashier yet. The next state $Paying$ obviously means the vehicle has reached the cashier and is paying for it's fuel. The last state is the state the vehicle recedes in when it leaves the station or has not entered the station yet, this is the $Idle$ state. \\
-\indent The second class is the $Lanes$ class. This class consist of a single type, the $Lane$ type. These $Lanes$ are the queues in front of the pumps. Such a lane can obviously be Available, which means vehicles can enter the queue, closed, vehicles cannot enter the queue, or full, no more new vehicles can enter the queue because the queue is full. Hence the states $Available, Closed$ and $Full$. For these lanes we assume that lanes can only be opened in blocks of three. So no cashier is serving only one or two lanes.\\
+In our fuel station we can distinguish several key object classes. All of these classes are stated in table \ref{tab:koc}. The classes we can distinguish are $Vehicle$, $Lanes$, $Employees$, $Pumps$ and $Queue Spot$. The class $Vehicle$ consists of all the types of vehicles that can enter the fuel station. These are all stated in the types, namely $Car, Car \ with \ Trailer$ and $Truck$. All these vehicles have the same states while they are in the fuel station. The first state is $Arriving$, when a vehicle is in the state $Arriving$ it means that the vehicle has entered the fuel station but has not yet chosen any queue to enter. Obviously the next state $In \ Queue$ means that the vehicle has chosen a queue and is waiting in line. The state $Refueling$ means the vehicle has reached the pump and is now refueling. The state $Waiting \ for \ Cashier$ means the vehicle is done refueling, but has not reached the cashier yet. The next state $Paying$ obviously means the vehicle has reached the cashier and is paying for it's fuel. The last state is the state the vehicle recedes in when it leaves the station or has not entered the station yet, this is the $Idle$ state. \\
+\indent The second class is the $Lanes$ class. This class consist of a single type, the $Lane$ type. These $Lanes$ are the queues in front of the pumps. Such a lane can obviously be Available, which means vehicles can enter the queue, or closed, vehicles cannot enter the queue. Hence the states $Available$ and $Closed$. For these lanes we assume that lanes can only be opened in blocks of three. So no cashier is serving only one or two lanes.\\
 \indent The third class is the $Employees$ class. There is only one kind of employee on the fuel station, which is the $Cashier$ type. A cashier can be in the state $Off-duty$, which means the cashier is not working at the moment. When he is in the state $Available$ the cashier is on duty but he is not serving customers at the moment. When he is busy serving a customer he is in the state $Serving$. The last state a cashier can recedes in is the state $Restocking \ Supplies$. This means the shift of the cashier has ended but he is busy restocking the supplies before he goes home. \\
 \indent The next class contains the different kind of pumps the fuel station has, hence the name $Pumps$. Each lane has two pumps. A $Low \  Speed \ Pump$ and a $High \ Speed \ Pump$. The first pump is for cars and the second is for trucks. The fuel station has plenty of room underground, therefore every lane can contain one of these pumps. Each of these pumps can be either in the $Available$ or $In \ Use$ state, which means the pump is in use for refueling. It is important to notice that at most one of the pumps in a lane can be in the state $In \ Use$, but both can be in the state $Available$.\\
 \indent The last class contains the class $Queue Spot$. This class represents the spots which are available between the pumps and the cashier. There are three kinds of spots. $First \ Spot$ is the spot right after the pump and there are three of them for every set of lanes a cashier is serving. $Second \ Spot$ is the spot after $First \ Spot$ and there are only two of them for every set of lanes. $Third \ Spot$ is the last spot and also the spot where a vehicle is served by a cashier. There is only of them for every set of lanes. Every one of these spots can either be occupied by a vehicle or be free, hence the states $Occupied$ and $Free$.
@@ -28,7 +28,7 @@ In our fuel station we can distinguish several key object classes. All of these 
 \textbf{States} & \textbf{States} & \textbf{States} & \textbf{States} & \textbf{States}\\
 - Arriving & - Available & - Off-duty & - Available & - Free\\
 - In Queue & - Closed & - Available & - In Use & - Occupied\\
-- Refueling & - Full & - Serving & &\\
+- Refueling & & - Serving & &\\
 - Waiting for Cashier & & - Restocking Supplies & &\\
 - Paying & & & &\\
 - Idle & & & &\\
@@ -46,31 +46,31 @@ There are a number of actions that can be done in this system. Each of these act
 \textbf{State changes:}
 \begin{enumerate}
 \item Vehicle state changes from \textit{Idle} to \textit{Arriving}.
-\item If every lanes is \textit{Closed} or \textit{Full}, then Vehicle becomes \textit{Idle} again.
+\item If every lanes is either \textit{Closed} or there is insufficient space for the arriving Vehicle, then the Vehicle becomes \textit{Idle} again.
 \item If a lane is \textit{Available} and the Pump is \textit{Available} (No Vehicle using or blocking it) then:
 \begin{enumerate}
 \item The Pump goes from \textit{Available} to \textit{In Use}.
 \item The Vehicle goes from \textit{Arriving} to \textit{Refueling}
 \end{enumerate}
-Assumption: If a Pump is \textit{Available}, the Lane is empty (i.e. when a Vehicle stops blocking it, the next Vehicle starts using it at the same time).\\
-\item If a lane is \textit{Available} and there is enough space for the arriving Vehicle and the Pump is \textit{In Use} then:
-\begin{enumerate}
-\item the Vehicle goes from \textit{Arriving} to \textit{In Queue}
-\item if the Lane is full now, it goes from \textit{Available} to \textit{Full}
-%Is deze State
-\end{enumerate}
+Assumption: If a Pump is \textit{Available}, the Lane is empty (i.e. when a Vehicle stops blocking it, the next Vehicle starts using it at the same time).
+\item If a lane is \textit{Available} and there is enough space for the arriving Vehicle and the Pump is \textit{In Use} then the Vehicle goes from \textit{Arriving} to \textit{In Queue}
 \end{enumerate}
 \item \textbf{A cashier starts a shift}\\
 \textbf{State changes:}
 \begin{enumerate}
 \item If there is no Vehicle at the Third Queue Spot of the Cashier, the Employee goes from \textit{Off-duty} to \textit{Available}.
 \item If there is a Vehicle at the Third Queue Spot of the Cashier, the Employee goes from \textit{Off-duty} to \textit{Serving}.
+\item If the Lanes the cashier is working on are \textit{Closed}, they change to \textit{Available}.
 \end{enumerate}
 \item \textbf{A cashier's regular shift ends}\\
 \textbf{State changes:}
 \begin{enumerate}
 \item If another cashier takes over, the Employee whose shift ends goes from \textit{Available} or \textit{Serving} to \textit{Restocking Supplies}
-\item If no cashier takes over, the Lanes of the cashier go from \textit{Available} to \textit{Closed}
+\item If no cashier takes over then
+\begin{enumerate}
+\item The Lanes of the cashier go from \textit{Available} to \textit{Closed}
+\item If the Lane and the Queue Spots are empty, the Employee goes from \textit{Available} to \textit{Restocking Supplies}
+\end{enumerate}
 \end{enumerate}
 \item \textbf{A cashier finishes Restocking Supplies}\\
 \textbf{State changes:}
@@ -78,35 +78,51 @@ The Employee goes from \textit{Restocking Supplies} to \textit{Off-duty}
 \item \textbf{A vehicle finishes refueling}\\
 \textbf{State changes:}
 \begin{enumerate}
-\item If the Vehicle can move completely to the Queue Spots of the Cashier, the Pump goes from \textit{In Use} to \textit{Available}
+\item If there are \textit{Free} Queue Spots the Vehicle can move to, the Queue Spots go from \textit{Free} to \textit{Occupied}
+\item If the Vehicle can move completely to the Queue Spots of the cashier, and there is a Vehicle waiting in the Lane then the waiting Vehicle goes from \textit{In Queue} to \textit{Refueling}
+\item If the Vehicle can move completely to the Queue Spots of the cashier and there is no Vehicle waiting in the Lane, the Pump goes from \textit{In Use} to \textit{Available}.
 \item If the cashier of the Lane the Vehicle is in is \textit{Available} then:
 \begin{enumerate}
 \item The Vehicle goes from \textit{Refueling} to \textit{Paying}
 \item The Employee of the Lane the Vehicle is in goes from \textit{Available} to \textit{Serving}
 \end{enumerate}
+Assumption: If the cashier is \textit{Available}, there are no Vehicles in his Queue Spots (i.e. when an Employee would become \textit{Available} with Vehicles in his Queue Spots, he becomes/stays \textit{Serving} instead).
 \item If the cashier of the Lane the Vehicle is in is \textit{Serving}, then the Vehicle goes from \textit{Refueling} to \textit{Waiting for Cashier}.
 %If lane can be blocked, check if it can be unblocked here
 \end{enumerate}
 \item \textbf{A vehicle has payed}\\
 \textbf{State changes:}
-%If the Lanes are closed and empty, if < 10 minute past end of shift cashier goes to Restocking supplies, if > 10 minute past end of shift to Off-duty
-\item \textbf{A cashier restocks}\\
-\textbf{State changes:}
-\item \textbf{A cashier opens lanes}\\
-\textbf{State changes:}
-\item \textbf{A cashier closes lanes}\\
-\textbf{State changes:}
-\item \textbf{A cashier starts after shift work}\\
-\textbf{State changes:}
-\item \textbf{A cashier ends after shift work}\\
-\textbf{State changes:}
+\begin{enumerate}
+\item The Vehicle goes from \textit{Paying} to \textit{Idle}.
+\item If there are Vehicles in the Queue Spots of the cashier then:
+\begin{enumerate}
+\item One of those Vehicles changes from \textit{Waiting for Cashier} to \textit{Paying}
+\item If a Vehicle can move further in the Queue Spots causing a Pump to no longer be blocked, then that Pump goes from \textit{In Use} to \textit{Available}
+\item If Queue Spots open up due to Vehicles moving, they go from \textit{Occupied} to \textit{Free}
+\end{enumerate}
+\item If there are no Vehicles in the Queue Spots of the cashier, then the Employee goes from \textit{Serving} to \textit{Available}
+\item If the Lanes of the cashier are \textit{Closed} and the \textit{Queue Spots} of the cashier are all \textit{Free}, and if less than 10 minutes passed since the cashier's regular shift ended the Employee goes from \textit{Serving} to \textit{Restocking Supplies}. 
+\item If the Lanes of the cashier are \textit{Closed} and the \textit{Queue Spots} of the cashier are all \textit{Free}, and if at least 10 minutes passed since the cashier's regular shift ended, the Employee goes from \textit{Serving} to \textit{Off-duty}. 
+\end{enumerate}
 \end{itemize}
-\subsection{Performance Indicators}
+
+\subsection{Performance Indicators:}
+These indicators are indicators which we can use to measure how well our model is performing regarding to the customers needs. The performance indicators which are of use to us are the following:
 \begin{itemize}
-\item (Average) throughput times\\
-\item Average resource utilization\\
-\item Minimum / average / maximum queue sizes\\
-\item Cashier costs\\
-\item Average waiting time before pump\\
+\item Average throughput times
+\item Average resource utilization
+\item Minimum / average / maximum queue sizes
+\item Cashier costs
+\item Average waiting time before pump
 \item Average waiting time after pump
 \end{itemize}
+The average throughput time is necessary to measure how long cars and trucks need to wait for the pump on average before they are done. The customer has a demand that a car or a truck does not have to wait any longer than a given amount of time. We use the average throughput time to measure if our model complies with this demand. \\
+\indent The average resource utilization tells us how well we are using the available resources. If the average resource utilization is very low, we have way to many cashiers on duty. We would like it if this number is very high. \\
+\indent The size of the queues tell us if we are using enough or to much resources. If the sizes are very large it might be a good idea to put an extra cashier on duty, and if the sizes of the queues are small we might put one cashier less on duty. It might also be a convenient to know the minimum and maximum sizes of the queues.\\
+\indent The cost of the cashiers are very important, since they determine how high the expenses are and therefore determine how much of the profit will disappear. The last two indicators which might be interesting are the average waiting time before and after the pump. These times can show us where the bottlenecks of the fuel station are located. 
+
+\subsection{Questions to be asked}
+There are two questions which our simulation study need to answer. The most important question is: "\textit{What is the most cost effective cashier schedule that satisfies the customer requirements?}". The second question is \textit{How should the cashier schedule be adopted to the expected decreases in customer demand?}", since vehicles are becoming more and more fuel-efficient.\\
+\indent These questions can be divided in sub-questions, "\textit{What should be the expected waiting times for trucks and cars?}" and "\textit{What is the percentage of blocked vehicles entering the fuel station?}". Another question is \textit{"What is the required number of cashiers per shift?}" These are all questions which can be used to answer the first question. To answer the second question we can in fact use the same sub-questions, we only need different data, since the number of arrivals are very different. 
+
+\subsection{Solution Alternatives}

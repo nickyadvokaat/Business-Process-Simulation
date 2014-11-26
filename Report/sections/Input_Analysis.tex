@@ -1,0 +1,92 @@
+\section{Input Analysis}
+A histogram of the number of arrivals over time is shown in Figure \ref{fig:histogram-arrivals}. 
+Fitting analysis has shown that a Beta distribution is the best fit for this data, a summary of the Fit all functionality of Arena Input Analyzer is shown in Table \ref{tab:fitallarrivals}.
+
+\begin{figure}[h]
+	\includegraphics[width=\textwidth]{images/histogram-arrivals.PNG}
+	\caption{Histogram of arrival times, each of the 24 intervals represents one hour.}
+	\label{fig:histogram-arrivals}
+\end{figure}
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{r | l}
+		Function  &     Sq Error\\
+		\hline
+		Beta       &  0.000889\\
+		Uniform     & 0.00141\\
+		Normal       &0.00507\\
+		Gamma        &0.00703\\
+		Erlang       &0.00712\\
+		Triangular   &0.00915\\
+		Lognormal    &0.0122\\
+		Exponential  &0.0143\\
+		Weibull      &0.107	
+	\end{tabular}
+	\caption{Fit all summary of Arena Input Analyzer on Arrivals\_(13).dst}
+	\label{tab:fitallarrivals}
+\end{table}
+
+In the fuel amounts dataset, we see a clear difference between cars and trucks.
+A histogram of the fuel amounts is shown in Figure \ref{fig:histogram-amounts-unfiltered}, here the high peak corresponds to fuel needed by cars, the lower bars correspond to fuel needed by trucks.
+In Figure \ref{fig:histogram-amounts-filtered}, a histogram is shown of only the car data, here the maximum data value has been set to 100.
+In Table \ref{tab:fitallamounts} summaries of \textit{Fit all} of the Arena Input Analyzer are shown.
+The car data in itself is best described by a normal distribution, all data is best described by a Lognormal distribution, where all car data is compressed into one bar of the histogram.
+
+\begin{figure}[h]
+	\includegraphics[width=\textwidth]{images/histogram-amounts-unfiltered.PNG}
+	\caption{Histogram of used fuel amounts, 40 intervals, on the raw data}
+	\label{fig:histogram-amounts-unfiltered}
+\end{figure}
+
+\begin{figure}[h]
+	\includegraphics[width=\textwidth]{images/histogram-amounts-filtered.PNG}
+	\caption{Histogram of used fuel amounts, 40 intervals, when maximum data value was set to 100 litres.}
+	\label{fig:histogram-amounts-filtered}
+\end{figure}
+
+\begin{table}[h]
+	\parbox{.45\linewidth}{
+		\centering
+		\begin{tabular}{r | l}
+			Function  &     Sq Error\\
+			\hline
+			Lognormal    &0.0976\\
+			Weibull      &0.118\\
+			Beta         &0.226\\
+			Gamma        &0.285\\
+			Exponential  &0.473\\
+			Erlang       &0.473\\
+			Normal       &0.668\\
+			Triangular   &0.679\\
+			Uniform      &0.69\\
+		\end{tabular}
+		\caption{Fit all summary of Arena Input Analyzer on Amounts\_(13).dst}
+		\label{fitallamountsunfiltered}
+	}
+	\parbox{.1\linewidth}{\ }
+	\parbox{.45\linewidth}{
+		\centering
+		\begin{tabular}{r | l}
+			Function  &     Sq Error\\
+			\hline
+			Normal       &0.000575\\
+			Weibull      &0.000587\\
+			Beta         &0.00239\\
+			Erlang       &0.00387\\
+			Gamma        &0.00411\\
+			Lognormal    &0.00888\\
+			Triangular   &0.0277\\
+			Exponential  &0.0397\\
+			Uniform      &0.0471\\
+			
+		\end{tabular}
+		\caption{Fit all summary of Arena Input Analyzer on Amounts\_(13).dst with maximum amount set to 100}
+				\label{fitallamountsfiltered}
+	}
+	\caption{Summaries of \textit{Fit all} of Arena Input Analyzer}
+	\label{tab:fitallamounts}
+\end{table}
+
+
+

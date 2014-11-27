@@ -1,6 +1,12 @@
 \section{Input Analysis}
+
+In this section we analyze the data that has been collected. One data set contains arrival times of vehicles from the last month. An other file has numbers of the amount of fuel a was needed by a vehicle. 
+
+\subsection{Arrival Times}
+
+We have a raw data set containing arrival times of vehicles at the station over a course of 30 days. 
 A histogram of the number of arrivals over time is shown in Figure \ref{fig:histogram-arrivals}. 
-Fitting analysis has shown that a Beta distribution is the best fit for this data, a summary of the Fit all functionality of Arena Input Analyzer is shown in Table \ref{tab:fitallarrivals}.
+Fitting analysis has shown that a Beta distribution is the best fit for this data, a summary of the Fit all functionality of Arena Input Analyzer is shown in Table \ref{tab:fitallarrivals}. Fitting a single distribution might not be very useful though. We can see that the busiest periods are around 7 AM and 6 PM. So it would be more interesting to fit distributions around these times. 
 
 \begin{figure}[h]
 	\includegraphics[width=\textwidth]{images/histogram-arrivals.PNG}
@@ -26,6 +32,16 @@ Fitting analysis has shown that a Beta distribution is the best fit for this dat
 	\caption{Fit all summary of Arena Input Analyzer on Arrivals\_(13).dst}
 	\label{tab:fitallarrivals}
 \end{table}
+
+Figure \ref{fig:histogram-inter-arrivals} shows a histogram of the time difference between successive arrivals. This data fits a poisson distribution with mean .. 
+
+\begin{figure}[h]
+	\includegraphics[width=\textwidth]{images/histogram-interarrivaltimes.PNG}
+	\caption{Histogram of inter arrival times, 40 intervals over the range 0 - 0.1 hours.}
+	\label{fig:histogram-inter-arrivals}
+\end{figure}
+
+\subsection{Fuel Amounts}
 
 In the fuel amounts dataset, we see a clear difference between cars and trucks.
 A histogram of the fuel amounts is shown in Figure \ref{fig:histogram-amounts-unfiltered}, here the high peak corresponds to fuel needed by cars, the lower bars correspond to fuel needed by trucks.

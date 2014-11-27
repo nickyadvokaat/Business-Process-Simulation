@@ -46,7 +46,7 @@ The car data in itself is best described by a normal distribution, all data is b
 \end{figure}
 
 \begin{table}[h]
-	\parbox{.45\linewidth}{
+	\parbox{.3\linewidth}{
 		\centering
 		\begin{tabular}{r | l}
 			Function  &     Sq Error\\
@@ -64,8 +64,8 @@ The car data in itself is best described by a normal distribution, all data is b
 		\caption{Fit all summary of Arena Input Analyzer on Amounts\_(13).dst}
 		\label{fitallamountsunfiltered}
 	}
-	\parbox{.1\linewidth}{\ }
-	\parbox{.45\linewidth}{
+	\parbox{.05\linewidth}{\ }
+	\parbox{.3\linewidth}{
 		\centering
 		\begin{tabular}{r | l}
 			Function  &     Sq Error\\
@@ -82,9 +82,29 @@ The car data in itself is best described by a normal distribution, all data is b
 			
 		\end{tabular}
 		\caption{Fit all summary of Arena Input Analyzer on Amounts\_(13).dst with maximum amount set to 100}
-				\label{fitallamountsfiltered}
+				\label{fitallamountsfilteredcars}
 	}
-	\caption{Summaries of \textit{Fit all} of Arena Input Analyzer}
+	\parbox{.05\linewidth}{\ }
+	\parbox{.3\linewidth}{
+		\centering
+		\begin{tabular}{r | l}
+			Function  &     Sq Error\\
+			\hline
+			Normal       &4.18e-005\\
+			Weibull      &0.00062\\
+			Lognormal    &0.00123\\
+			Erlang       &0.00215\\
+			Gamma        &0.00219\\
+			Beta         &0.00276\\
+			Triangular   &0.0201\\
+			Uniform      &0.0454\\
+			Exponential  &0.0594
+			
+		\end{tabular}
+		\caption{Fit all summary of Arena Input Analyzer on Amounts\_(13).dst with minimum amount set to 100}
+		\label{fitallamountsfilteredtrucks}
+	}
+	\caption{Summaries of \textit{Fit all} of Arena Input Analyzer, all with 40 intervals}
 	\label{tab:fitallamounts}
 \end{table}
 

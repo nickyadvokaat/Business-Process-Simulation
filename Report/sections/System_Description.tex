@@ -143,29 +143,12 @@ Below we enumerate these actions along with the state changes they cause.
 \end{enumerate}
 
 \subsection{Performance Indicators:}
-The performance indicators which are of use to us are the following:
-\begin{itemize}[noitemsep, topsep=0pt]	
-\item Average throughput times
-\item Average resource utilization
-\item Minimum / average / maximum queue sizes
-\item Cashier costs
-\item Average waiting time before pump
-\item Average waiting time after pump
-\end{itemize}
-The average throughput time is necessary to measure how long cars and trucks need to wait for the pump on average before they are done. 
-The customer has a demand that a car or a truck does not have to wait any longer than a given amount of time. 
-We use the average throughput time to measure if our model complies with this demand. 
+We consider two performance indicators.
+First, we consider average throughput time i.e. the time between arriving and leaving of a car or truck.
+This time should be at most 30 minutes for cars and cars with trailers and at most 45 minutes for trucks.
+The second performance indicator is the cost of the staffing schedule.
+As mentioned in the assignment, having 5 cashiers on duty at all times costs about 3200 euro per day.
 
-The average resource utilization tells us how well we are using the available resources. 
-If the average resource utilization is very low, we have too many cashiers on duty.
-We would like it if this number is very high.
-The size of the queues tell us if we are using enough or to much resources. 
-If the sizes are very large it might be a good idea to put an extra cashier on duty, and if the sizes of the queues are small we might put one cashier less on duty. 
-It might also be a convenient to know the minimum and maximum sizes of the queues.
-
-The cost of the cashiers are very important, since they determine how high the expenses are and therefore determine how much of the profit will disappear. 
-The last two indicators which might be interesting are the average waiting time before and after the pump. 
-These times can show us where the bottlenecks of the fuel station are located. 
 
 \subsection{Questions to be answered}
 There are two questions that our simulation study needs to answer. 
@@ -176,5 +159,3 @@ These questions can be divided in sub-questions, "\textit{What should be the exp
 Another question is \textit{"What is the required number of cashiers per shift?}"
 These are all questions which can be used to answer the first question. 
 To answer the second question we can in fact use the same sub-questions, we only need different data, since the number of arrivals are very different. 
-
-\subsection{Solution Alternatives}

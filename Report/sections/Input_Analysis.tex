@@ -7,9 +7,11 @@ In this section we analyze the data that has been collected. One data set contai
 We have a raw data set containing arrival times of vehicles at the station over a course of 30 days. 
 A histogram of the number of arrivals over time is shown in Figure \ref{fig:histogram-arrivals}. 
 Fitting analysis has shown that a Beta distribution is the best fit for this data, a summary of the Fit all functionality of Arena Input Analyzer is shown in Table \ref{tab:fitallarrivals}. 
-Fitting a single distribution might not be very useful though. 
-We can see that the busiest periods are around 7 AM and 6 PM. 
+Fitting a single distribution might not be very useful though, because we can see two curves around the busiest periods are around 7 AM and 6 PM. 
 So it would be more interesting to fit distributions around these times. 
+
+Figure \ref{fig:histogram-inter-arrivals-all} shows a histogram of the inter arrival times. We can fit an exponential distribution over this with $\lambda = 0.0118452$. If we assume arrivals are independent random events this is clearly a Poisson process. Instead of taking an arrival rate for the entire period, we might split these by the time of day. Figures \ref{fig:histogram-inter-arrivals-2-3} and \ref{fig:histogram-inter-arrivals-8-9}  show the same plot but only for hours 2AM-3AM and 8AM-9AM. There is a difference in the arrival rates, the latter time slot is busier, but we can still fit an exponential distribution. There is a modelling alternative here, we can either use one constant arrival rate or split it into intervals. Table \ref{tab:estimates} shows an overview of all estimates for $\lambda$. 
+
 
 \subsection{Fuel Amounts}
 

@@ -1,26 +1,26 @@
 \section{Input Analysis}
 
-In this section we analyze the data that has been collected. One data set contains arrival times of vehicles from the last month. An other file has numbers of the amount of fuel a was needed by a vehicle.  Figures and tables are included in Appendix \ref{app:inputanalysis}.
+In this section we analyze the data that has been collected. One data set contains arrival times of vehicles from the last month. An other file has numbers of the amount of fuel a was needed by a vehicle.  Figures and tables are included in \autoref{app:inputanalysis}.
 
 \subsection{Arrival Times}
 
-We have a raw data set containing arrival times of vehicles at the station over a course of 30 days. 
-A histogram of the number of arrivals over time is shown in Figure \ref{fig:histogram-arrivals}. 
-Fitting analysis has shown that a Beta distribution is the best fit for this data, a summary of the Fit all functionality of Arena Input Analyzer is shown in Table \ref{tab:fitallarrivals}. 
-Fitting a single distribution might not be very useful though, because we can see two curves around the busiest periods are around 7 AM and 6 PM. 
-So it would be more interesting to fit distributions around these times. 
+We have a raw data set containing arrival times of vehicles at the station over a course of 30 days.
+A histogram of the number of arrivals over time is shown in \autoref{fig:histogram-arrivals}.
+Fitting analysis has shown that a Beta distribution is the best fit for this data, a summary of the Fit all functionality of Arena Input Analyzer is shown in \autoref{tab:fitallarrivals}.
+Fitting a single distribution might not be very useful though, because we can see two curves around the busiest periods are around 7 AM and 6 PM.
+So it would be more interesting to fit distributions around these times.
 
-Figure \ref{fig:histogram-inter-arrivals-all} shows a histogram of the inter arrival times. We can fit an exponential distribution over this with $\lambda = 0.0118452$. If we assume arrivals are independent random events this is clearly a Poisson process. Instead of taking an arrival rate for the entire period, we might split these by the time of day. Figures \ref{fig:histogram-inter-arrivals-2-3} and \ref{fig:histogram-inter-arrivals-8-9}  show the same plot but only for hours 2AM-3AM and 8AM-9AM. There is a difference in the arrival rates, the latter time slot is busier, but we can still fit an exponential distribution. There is a modelling alternative here, we can either use one constant arrival rate or split it into intervals. Table \ref{tab:estimates} shows an overview of all estimates for $\lambda$. 
+\autoref{fig:histogram-inter-arrivals-all} shows a histogram of the inter arrival times. We can fit an exponential distribution over this with $\lambda = 0.0118452$. If we assume arrivals are independent random events this is clearly a Poisson process. Instead of taking an arrival rate for the entire period, we might split these by the time of day. \autoref{fig:histogram-inter-arrivals-2-3} and \autoref{fig:histogram-inter-arrivals-8-9} show the same plot but only for hours 2AM-3AM and 8AM-9AM. There is a difference in the arrival rates, the latter time slot is busier, but we can still fit an exponential distribution. There is a modelling alternative here, we can either use one constant arrival rate or split it into intervals. \autoref{tab:estimates} shows an overview of all estimates for $\lambda$.
 
 
 \subsection{Fuel Amounts}
 
 In the fuel amounts dataset, we see a clear difference between cars and trucks.
 We consider the fuel needed by cars and by trucks separately, in order to get a better fit of the data.
-A histogram of all fuel amounts is shown in Figure \ref{fig:histogram-amounts-unfiltered}, here the high peak corresponds to fuel needed by cars, the lower bars correspond to fuel needed by trucks.
-In Figure \ref{fig:histogram-amounts-filtered}, a histogram is shown of only the car data, here the maximum data value has been set to 100.
-Figure \ref{fig:histogram-amounts-filtered-trucks} shows the fuel amounts needed by trucks, here the minimum data value has been set to 100.
-In Table \ref{tab:fitallamounts} summaries of \textit{Fit all} of the Arena Input Analyzer are shown.
+A histogram of all fuel amounts is shown in \autoref{fig:histogram-amounts-unfiltered}, here the high peak corresponds to fuel needed by cars, the lower bars correspond to fuel needed by trucks.
+In \autoref{fig:histogram-amounts-filtered}, a histogram is shown of only the car data, here the maximum data value has been set to 100.
+\autoref{fig:histogram-amounts-filtered-trucks} shows the fuel amounts needed by trucks, here the minimum data value has been set to 100.
+In \autoref{tab:fitallamounts} summaries of \textit{Fit all} of the Arena Input Analyzer are shown.
 The car data in itself is best described by a normal distribution, all data is best described by a Lognormal distribution, where all car data is compressed into one bar of the histogram.
 
 

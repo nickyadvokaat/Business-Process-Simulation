@@ -1,6 +1,6 @@
 \section{System Description}
 In this section we give a description of the fuel station.
-First, we describe all key object classes appearing in the model and their associated actions. 
+First, we describe all key object classes appearing in the model and their associated actions.
 Next, performance indicators are listed.
 Thirdly, we pose questions to be answered by our research.
 Finally, we name alternative solutions to achieve Bills goals.
@@ -8,29 +8,29 @@ Finally, we name alternative solutions to achieve Bills goals.
 \subsection{Key Object Classes}
 In our fuel station we can distinguish several key object classes.
 Table \ref{tab:koc} shows all key object classes as well as their types and states.
-The classes we distinguish are \textit{Vehicle}, \textit{Lane}, \textit{Employee}, \textit{Pump} and \textit{Queue Spot}. 
+The classes we distinguish are \textit{Vehicle}, \textit{Lane}, \textit{Employee}, \textit{Pump} and \textit{Queue Spot}.
 
 The class \textit{Vehicle} consists of three types: \textit{Car, Car with Trailer} and \textit{Truck}.
- Vehicles are in one of six states while they are in the fuel station. 
+ Vehicles are in one of six states while they are in the fuel station.
  The first state is \textit{Arriving}, a vehicle in this state has entered the fuel station but has not yet chosen any queue to enter.
- A vehicle in the next state, \textit{In Queue}, has chosen a queue and is waiting in line. 
- The third state, \textit{Refueling}, indicates that the vehicle has reached the pump and is now refueling. 
- The fourth state, \textit{Waiting for Cashier} means the vehicle is done refueling, but has not reached the cashier yet. 
- The next state, \textit{Paying}, means the vehicle has reached the cashier and payment is being handled. 
+ A vehicle in the next state, \textit{In Queue}, has chosen a queue and is waiting in line.
+ The third state, \textit{Refueling}, indicates that the vehicle has reached the pump and is now refueling.
+ The fourth state, \textit{Waiting for Cashier} means the vehicle is done refueling, but has not reached the cashier yet.
+ The next state, \textit{Paying}, means the vehicle has reached the cashier and payment is being handled.
  When a vehicle is in the last state, \textit{Idle}, it has outside our station i.e. it has not yet arrived or has already left.
- 
+
 The second class is \textit{Lane}, it consists of a single type, also named \textit{Lane}.
-A \textit{Lane} is a queue in front of the pumps and is in one of two states. 
+A \textit{Lane} is a queue in front of the pumps and is in one of two states.
 The first state is \textit{Available}, i.e. vehicles can enter the lane.
 The second state is \textit{Closed}, i.e. no vehicle can enter the lane.
 We assume that within groups of three lanes, the state is shared, i.e., in every group either all lanes are opened or all lanes are closed.
 
-The third class is the \textit{Employees}, in this model we consider only one type of employee, \textit{Cashier}. 
+The third class is the \textit{Employees}, in this model we consider only one type of employee, \textit{Cashier}.
 A cashier can be in one of four states.
-The first state is \textit{Off-duty}, i.e. the cashier is not working at the moment. 
-Secondly, there is the state \textit{Available}, the cashier is on duty but he is not serving customers at the moment. 
+The first state is \textit{Off-duty}, i.e. the cashier is not working at the moment.
+Secondly, there is the state \textit{Available}, the cashier is on duty but he is not serving customers at the moment.
 When he is busy serving a customer he is in the third state, \textit{Serving}.
-The last state a cashier can be in is the state \textit{Restocking Supplies}. 
+The last state a cashier can be in is the state \textit{Restocking Supplies}.
 This means the shift of the cashier has ended but he is restocking the supplies.
 
 The fourth class is \textit{Pump}.
@@ -38,12 +38,12 @@ Each of these pumps can be either in the \textit{Available} or \textit{In Use} s
 We assume that each pump is capable of providing fuel at low and high speed, depending on the vehicle type.
 Furthermore we assume that there is enough fuel stored to ensure a continuous flow.
 
-The last class is \textit{Queue Spot}. 
-This class represents the spots which are available between the pumps and the cashier. 
-There are three kinds of spots. 
+The last class is \textit{Queue Spot}.
+This class represents the spots which are available between the pumps and the cashier.
+There are three kinds of spots.
 \textit{First Spot} is the spot right after the pump and there are three of them for every group of three lanes a served by a single cashier.
-\textit{Second  Spot} is the spot after \textit{First Spot} and there are only two of them for every group of three lanes. 
-\textit{Third Spot} is the last spot and also the spot where a vehicle is served by a cashier, there is only one of them for every group of three lanes. 
+\textit{Second  Spot} is the spot after \textit{First Spot} and there are only two of them for every group of three lanes.
+\textit{Third Spot} is the last spot and also the spot where a vehicle is served by a cashier, there is only one of them for every group of three lanes.
 Every one of these spots can either be occupied by a vehicle or be free, hence the states \textit{Occupied} and \textit{Free}.
 
 \begin{center}
@@ -73,7 +73,7 @@ Every one of these spots can either be occupied by a vehicle or be free, hence t
 
 \subsection{Actions}
 We model six actions that occur in the system.
-Each of these actions causes a number of state changes, depending on the state the system is in when the action occurs. 
+Each of these actions causes a number of state changes, depending on the state the system is in when the action occurs.
 Below we enumerate these actions along with the state changes they cause.
 
 \begin{enumerate}
@@ -137,10 +137,182 @@ Below we enumerate these actions along with the state changes they cause.
 			\item If Queue Spots open up due to Vehicles moving, they go from \textit{Occupied} to \textit{Free}
 		\end{enumerate}
 		\item If there are no Vehicles in the Queue Spots of the cashier, then the Employee goes from \textit{Serving} to \textit{Available}
-		\item If the Lanes of the cashier are \textit{Closed} and the \textit{Queue Spots} of the cashier are all \textit{Free}, and if less than 10 minutes passed since the cashier's regular shift ended the Employee goes from \textit{Serving} to \textit{Restocking Supplies}. 
-		\item If the Lanes of the cashier are \textit{Closed} and the \textit{Queue Spots} of the cashier are all \textit{Free}, and if at least 10 minutes passed since the cashier's regular shift ended, the Employee goes from \textit{Serving} to \textit{Off-duty}. 
+		\item If the Lanes of the cashier are \textit{Closed} and the \textit{Queue Spots} of the cashier are all \textit{Free}, and if less than 10 minutes passed since the cashier's regular shift ended the Employee goes from \textit{Serving} to \textit{Restocking Supplies}.
+		\item If the Lanes of the cashier are \textit{Closed} and the \textit{Queue Spots} of the cashier are all \textit{Free}, and if at least 10 minutes passed since the cashier's regular shift ended, the Employee goes from \textit{Serving} to \textit{Off-duty}.
 	\end{enumerate}
 \end{enumerate}
+
+\subsection{Conceptual Model}
+\begin{figure}
+\centering
+\begin{tikzpicture}[
+place/.style={
+rectangle,
+minimum size=6mm,
+semithick,
+draw=black,
+fill=blue!20
+},
+title/.style={
+draw=none,
+fill=none,
+color=gray,
+anchor=east
+},
+ptext/.style={
+draw=none,
+fill=none,
+color=black
+},
+superplace/.style={
+matrix of nodes,
+nodes=place,
+row 1/.style={
+    nodes=title
+},
+row sep=0.5em,
+column sep={3em,between origins},
+matrix anchor=north,
+rectangle,
+semithick,
+draw=black,
+fill=orange!20
+}]
+
+\node [draw=none] (cave) {};
+\node [place,below =of cave] (arr) {Arriving};
+
+\matrix [superplace,below of=arr](queueing){
+    Queueing & & &\\
+    & |(selq)| Select Queue & &\\
+    & & &\\
+    & & &\\
+    & & &\\
+    |[label=below:$1$,inner sep=0](q1)|\rotatebox{90}{\tbsep} & |[label=below:$2$,inner sep=0](q2)|\rotatebox{90}{\tbsep} &  & |[label=below:$15$,inner sep=0](q15)|\rotatebox{90}{\tbsep} \\
+};
+
+\node [draw=none, left =of queueing] (block) {};
+
+\matrix [superplace,below =of queueing](refueling){
+    Refueling\\
+    |(park)| Parking\\
+    |(ref)| Refueling\\
+    |(clean)| Clean windows\\
+};
+
+\matrix [superplace,below =of refueling](caque){
+    Cashier \\
+     |[label=below:$1$,inner sep=0](c1)|\rotatebox{90}{\tbsep} & |[label=below:$2$,inner sep=0](c2)|\rotatebox{90}{\tbsep} &  & |[label=below:$5$,inner sep=0](c5)|\rotatebox{90}{\tbsep} \\
+};
+
+\node [place,right =of caque] (pay) {Paying};
+\node [draw=none, right =of pay] (lea) {Vehicle leaves};
+
+\node [draw=none] at (7,-0.5) (t1) {
+\begin{tabular}{|l | l|}
+\hline
+\multicolumn{2}{|l|}{Vehicles}\\
+\hline
+70\% & Car \\ 15\% & Car with trailer \\ 15\% & Truck \\
+\hline
+\end{tabular}};
+\node [draw=none] at (7,-3.8)(t2) {
+\begin{tabular}{|l|}
+\hline
+Vehicles select shortest open queue\\
+\hline
+At most 1\% blocked\\
+\hline
+\end{tabular}};
+\node [draw=none] at (7,-6)(t3) {
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{2}{|l|}{Max waiting time} \\
+\hline
+Car & \multirow{2}{*}{30 min (1800 sec)} \\
+(with trailer) & \\
+Truck & 45 min (2700 sec) \\
+\hline
+\end{tabular}};
+\node [draw=none] at (5.6,-9.2)(t4) {
+\begin{tabular}{|l|}
+\hline
+30-45 seconds \\
+\hline
+\end{tabular}};
+\node [draw=none] at (7,-10.7)(t5) {
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{2}{|l|}{Time, depends on fuel amount} \\
+\hline
+Car & \multirow{2}{*}{fuel / 40 min} \\
+(with trailer) & \\
+Truck & fuel / 130 min \\
+\hline
+\end{tabular}};
+\node [draw=none] at (5.6,-12.2)(t6) {
+\begin{tabular}{|l|}
+\hline
+10-30 seconds \\
+\hline
+\end{tabular}};
+\node [draw=none] at (7,-13.2)(t7) {
+\begin{tabular}{|l|}
+\hline
+Pick cashier queue corresponding\\
+to lane (1-3$\rightarrow$1, 4-6$\rightarrow$2, etc) \\
+\hline
+\end{tabular}};
+\node [draw=none] at (6.5,-14.5)(t8) {
+\begin{tabular}{|l|}
+\hline
+Typically 90 seconds\\
+Maximum 4.5 min (270 sec) \\
+\hline
+\end{tabular}};
+\node [draw=none] at (6.5,-17.3)(t9) {
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{2}{|l|}{Throughput}\\
+\hline
+Car (with trailer) & avg at most 30 min \\
+Truck & avg at most 45 min \\
+\hline
+\end{tabular}};
+
+\draw[->,thick] (cave) --  coordinate[midway](m)(arr.north);
+
+\draw[->,thick] (arr.south -| selq.north) -- (selq.north);
+
+\draw[->,thick] (selq.west) -- (selq.west -| block) node[midway,below,draw=none] {Blocked};
+\draw[->,thick] (pay.east) -- (lea.west);
+
+\draw[->,thick] (selq.south -| q1.north) -| (q1.north);
+\draw[->,thick] (selq.south -| q2.north) -- (q2.north);
+\draw[->,thick] (selq.east) -| (q15.north);
+
+\draw[->,thick] (queueing.south) -- (refueling.north);
+\draw[->,thick] (refueling.south) -- (caque.north);
+\draw[->,thick] (caque.east |- pay.west) -- (pay.west);
+
+\draw[dotted, shorten >= .3cm, shorten <= .3cm] (q2) -- (q15);
+
+\draw[dotted,semithick] (t1.west |- m) -- (m);
+\draw[dotted,thick,bend right=45] (t2.north west) to (selq.north east);
+\draw[dotted,semithick] (t3.west |- q15) -- (q15);
+
+\draw[dotted,thick] (t4.west) -- (park.east);
+\draw[dotted,semithick] (t5.west |- ref) -- (ref);
+\draw[dotted,semithick] (t6.west |- clean) -- (clean);
+
+\draw[dotted,semithick] (caque) |- (t7);
+\draw[dotted,semithick] (t8.south -| pay) -- (pay);
+
+\draw[dotted, shorten >= .3cm, shorten <= .3cm] (c2.east) -- (c5.west);
+
+\end{tikzpicture}
+\caption{Conceptual model Bram Kohl}
+\end{figure}
 
 \subsection{Performance Indicators:}
 We consider two performance indicators.
@@ -151,11 +323,11 @@ As mentioned in the assignment, having 5 cashiers on duty at all times costs abo
 
 
 \subsection{Questions to be answered}
-There are two questions that our simulation study needs to answer. 
-The most important question is: "\textit{What is the most cost effective cashier schedule that satisfies the customer requirements?}". 
+There are two questions that our simulation study needs to answer.
+The most important question is: "\textit{What is the most cost effective cashier schedule that satisfies the customer requirements?}".
 The second question is \textit{How should the cashier schedule be adopted to the expected decreases in customer demand?}", since vehicles are becoming more and more fuel-efficient.
 
-These questions can be divided in sub-questions, "\textit{What should be the expected waiting times for trucks and cars?}" and "\textit{What is the percentage of blocked vehicles entering the fuel station?}". 
+These questions can be divided in sub-questions, "\textit{What should be the expected waiting times for trucks and cars?}" and "\textit{What is the percentage of blocked vehicles entering the fuel station?}".
 Another question is \textit{"What is the required number of cashiers per shift?}"
-These are all questions which can be used to answer the first question. 
-To answer the second question we can in fact use the same sub-questions, we only need different data, since the number of arrivals are very different. 
+These are all questions which can be used to answer the first question.
+To answer the second question we can in fact use the same sub-questions, we only need different data, since the number of arrivals are very different.

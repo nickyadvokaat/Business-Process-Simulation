@@ -45,6 +45,7 @@
 \renewcommand{\footrulewidth}{1pt}
 
 \bibliographystyle{plain}
+\hypersetup{pdfborder={0 0 0}}
 
 \setlength{\parskip}{10pt}
 
@@ -67,7 +68,10 @@
 
 \begin{document}
 	\input{sections/Titlepage}
+    \tableofcontents
+    \newpage
 	\input{sections/Executive_Summary}
+    \newpage
 	\input{sections/Introduction}
 	
 	\input{sections/System_Description}

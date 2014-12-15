@@ -1,0 +1,8 @@
+[RESOURCES]
+[VARIABLES]
+OpenLaneWithMaxFreeSpaces
+Block Vehicle.NumberOut False
+Dispose 4.NumberOut
+Dispose 3.NumberOut
+Arrivals.NumberOut
+Block Vehicle.NumberOut True

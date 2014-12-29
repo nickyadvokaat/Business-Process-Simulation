@@ -1,0 +1,46 @@
+[RESOURCES]
+Pump10
+Pump11
+Pump12
+Pump13
+Pump14
+Pump15
+Cashier1
+Pump1
+Pump2
+Pump3
+Pump4
+Pump5
+Pump6
+Pump7
+Pump8
+Shift 10
+Pump9
+Shift 11
+Shift 12
+Shift 1
+Shift 2
+Shift 3
+Shift 4
+Shift 5
+Shift 6
+Shift 7
+Shift 8
+Shift 9
+[VARIABLES]
+Park Car at Pump.NumberIn
+Spots After Pump
+CleanWindows.NumberOut
+Park Car at Pump.NumberOut
+QueueLengths
+Is Space in Lane?.NumberOut False
+Pay Cashier.NumberOut
+CleanWindows.NumberIn
+Is Space in Lane?.NumberOut True
+Return to Highway.NumberOut
+Open
+Arrivals.NumberOut
+Blocked Vehicles.NumberOut
+Refuel.NumberOut
+Refuel.NumberIn
+Pay Cashier.NumberIn

@@ -1,0 +1,36 @@
+\section{Experiment Setup}
+As stated before, we are trying to increase profit in the fuel station model.
+However, we are limited in ways to do so: we cannot alter the fuel cost, nor is there any way for us to increase customer count.
+The only way for us to increase profit, is to lower the cost of fuel station operation, by changing the schedule of the workers. \\
+Obviously, it would be cheapest not to have workers at all, but we are to adhere to certain requirements regarding customer satisfaction statistics.
+For example, the amount of vehicles that are blocked, by all active lanes being full, may not exceed $1\%$ of all arrived vehicles. \\
+This does give rise some conflicting methods of scheduling.
+On the one hand, we can increase income by keeping the blocked percentage as low as possible, conversely, the extra cashiers needed would increase cost as well.
+Since we were not given the price of fuel, or any of other services offered, for that matter, we cannot calculate the profit increase.
+However, we were given the cost of workers for the fuel station. \\
+As a result, we will focus entirely on reducing cost by adjusting the worker schedule as much as possible, even though this might not necessarily yield the optimized profit, depending on fuel and service prices.
+As such, in our case, finding the optimal solution to the model means finding the minimal cost schedule, whilst still adhering to the requirements that were imposed.
+In this section, we will discuss how we intend to find the optimal solution to our model. \\
+
+In our experiment, we will be using the OptQuest tool that Arena offers natively to find the optimal solution.
+Our model contains several decision variables, that we can alter to find the optimal solution.
+However, doing so by hand would be very labour intensive indeed.
+Moreover, there are constraints that limit our solution space, having to check those would require even more of an effort.
+Instead, OptQuest allows us to set bounds to decision variables, and constraints, iterating smartly over the large solution space to maximize an objective variable. \\
+
+As described above, the only decision variables we have are the schedules of the cashiers.
+We have 12 shift resources, defining how many cashiers are in every of the 12 shifts spanning 4 hours each.
+Since there are only 5 cash registers, the number of cashiers in a shift should not exceed 5.
+As such, each shift variable should be bounded between 0 and 5.
+However, this leads to a rather large solution space, as there are$6^{12}$ possibilities. \\
+These are limited, however by several constraints.
+First of all, the percentage of vehicles blocked should not exceed 1 percent of the total number of vehicles arrived. \\
+Since there are 12 shifts of 4 hours, every shift overlaps with two other shift.
+As such, it might occur that there are more cashiers active than there are cash registers.
+To combat this problem, and reduce the size of the solution space, we state that the number of workers active at any time should be less than or equal to 5, the number of cash registers. \\
+We can then calculate the cost of the given schedule by adding the number of cashiers in every shift, multiplying it by 4, the number of hours in a shift, and multiplying it again by 25, the wage of a worker in euros per hour.
+Our goal is then to minimize this cost variable. \\
+
+We will attempt to find a near optimal solution in several steps.
+Since the way OptQuest iterates over the data does not guarantee an optimal solution, the best solution found by OptQuest might not be the optimal solution.
+As such, instead of simply taking the best solution found by Optquest, we will take several of the best solutions found, and try to optimize these by hand, by removing cashiers from several shifts, whilst ensuring that the requirements are still satisfied. 

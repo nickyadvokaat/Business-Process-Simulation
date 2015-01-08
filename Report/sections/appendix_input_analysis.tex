@@ -1,11 +1,11 @@
 \section{Appendix Input Analysis}\label{app:inputanalysis}
-\begin{figure}[h!]
+\begin{figure}[!ht]
 	\includegraphics[width=\textwidth]{images/histogram-arrivals.PNG}
 	\caption{Histogram of arrival times, each of the 24 intervals represents one hour.}
 	\label{fig:histogram-arrivals}
 \end{figure}
 
-\begin{table}[H!]
+\begin{table}[!ht]
 	\centering
 	\begin{tabular}{r | l}
 		Function  &     Sq Error\\
@@ -24,33 +24,33 @@
 	\label{tab:fitallarrivals}
 \end{table}
 
-\newpage
 
-\begin{figure}[H!]
+\begin{figure}[!ht]
 	\includegraphics[width=\textwidth]{images/fit_all.jpg}
 	\caption{Histogram of all inter arrival times, with a fitted exponential distribution.}
 	\label{fig:histogram-inter-arrivals-all}
 \end{figure}
 
-\newpage
+\clearpage
 
-\begin{figure}[H!]
+\begin{figure}[!ht]
 	\includegraphics[width=\textwidth]{images/fit_2-3.jpg}
 	\caption{Histogram of inter arrival times between 2AM and 3AM, with a fitted exponential distribution.}
 	\label{fig:histogram-inter-arrivals-2-3}
 \end{figure}
 
-\newpage
+\clearpage
 
-\begin{figure}[H!]
+
+\begin{figure}[!ht]
 	\includegraphics[width=\textwidth]{images/fit_8-9.jpg}
 	\caption{Histogram of inter arrival times between 8AM and 9AM, with a fitted exponential distribution.}
 	\label{fig:histogram-inter-arrivals-8-9}
 \end{figure}
 
-\newpage
+\clearpage
 
-\begin{table}[H!]
+\begin{table}[!ht]
 	\centering
 	\begin{tabular}{r | l}
 		Time Interval  &     Estimated $\lambda$ (hours)\\
@@ -79,31 +79,39 @@
 		21-22 & 0.012557\\
 		22-23  & 0.0138661\\
 		23-24  & 0.0143825\\
-		All & 0.0118452 \\ 
+		All & 0.0118452 \\
 	\end{tabular}
 	\caption{Estimates of rate $\lambda$ for each time interval}
 	\label{tab:estimates}
 \end{table}
 
-\begin{figure}[H!]
+\clearpage
+
+\begin{figure}[!ht]
 	\includegraphics[width=\textwidth]{images/histogram-amounts-unfiltered.PNG}
 	\caption{Histogram of used fuel amounts, 40 intervals, on the raw data}
 	\label{fig:histogram-amounts-unfiltered}
 \end{figure}
 
-\begin{figure}[H!]
+\clearpage
+
+\begin{figure}[!ht]
 	\includegraphics[width=\textwidth]{images/histogram-amounts-filtered.PNG}
 	\caption{Histogram of used fuel amounts, 40 intervals, when maximum data value was set to 100 litres.}
 	\label{fig:histogram-amounts-filtered}
 \end{figure}
 
-\begin{figure}[H!]
+\clearpage
+
+\begin{figure}[!ht]
 	\includegraphics[width=\textwidth]{images/histogram-amounts-filtered-min100.PNG}
 	\caption{Histogram of used fuel amounts, 40 intervals, when minimum data value was set to 100 litres.}
 	\label{fig:histogram-amounts-filtered-trucks}
 \end{figure}
 
-\begin{table}[H!]
+\clearpage
+
+\begin{table}[!ht]
 	\parbox{.3\linewidth}{
 		\centering
 		\begin{tabular}{r | l}
@@ -165,3 +173,5 @@
 	\caption{Summaries of \textit{Fit all} of Arena Input Analyzer, all with 40 intervals}
 	\label{tab:fitallamounts}
 \end{table}
+
+\clearpage

@@ -56,3 +56,59 @@ After this the cashier is released and the checkout entity will be disposed.
 	\label{fig:closerestockandrelease}
 \end{center}
 \end{figure}
+
+\subsection{Vehicle management}
+This subsection describes the submodel where the vehicles are the entities that go through the system. First the model will be described in general, after which each part will be described in detail. The whole submodel can be viewed in figure \ref{fig:modelpumps} in appendix \ref{app:modeldescription}
+
+When a vehicle arrives, it is determined what type of vehicle it is. Then the vehicle queues up in the shortest lane if there is an open lane that has enough space for the vehicle (otherwise the vehicle is blocked). Then the vehicle parks, refuels, gets its windows cleaned and moves on to the payment queue. In this queue it moves forward whenever possible until it reaches the cashier, to which it pays and then leaves, recording the time it has been in the system.
+
+Now lets discuss the model step-by-step in detail.
+First the vehicle arrives, gets a size assigned, and its arrival is recorded in the system. See figure \ref{fig:vehiclearrives}. Here we see the vehicle being created in \textit{Create car}, which keeps creating cars according to the Arrival Schedule, one at a time. Then in \textit{Assign Size} the arrival time and size attributes are set. Finally in \textit{Record Arrival} the arrivals are counted.
+
+\begin{figure}[]
+\begin{center}
+	\includegraphics[scale=1]{images/model-description/vehicle-arrives.PNG}
+	\caption{Modeling of the vehicle arriving.}
+	\label{fig:vehiclearrives}
+\end{center}
+\end{figure}
+
+Next, take a look at figure \ref{fig:picklane}. In the leftmost block, \textit{Find shortest lane}, the minimum open lane is selected for this vehicle. After this, the block \textit{Check available space} determines whether or not the vehicle will be blocked. It will be if the space in lane is insufficient for the current vehicle, or if the lane is closed. If the vehicle is blocked, this is recorded in \textit{Record Blocked} after which we dispose of it. If the vehicle is not blocked, we add it to the lane by updating the space in the lane in \textit{Add to lane} and seizing the pump of the lane in \textit{Seize Pump of lane}.
+
+\begin{figure}[]
+\begin{center}
+	\includegraphics[scale=1]{images/model-description/pick-lane.PNG}
+	\caption{Modeling of the vehicle picking a lane, checking if there is enough space, blocking if not and moving into the lane if yes.}
+	\label{fig:picklane}
+\end{center}
+\end{figure}
+
+In figure \ref{fig:refuelprocess} we see how the vehicle moves to the pump (which shortens the queue by one), after which the tank process begins. This essentially consists of three delays: parking the vehicle in the \textit{Park Vehicle at Pump} block, Refueling the vehicle (\textit{Refuel}) and cleaning the windows of the vehicle (\textit{Clean Windows}).
+
+\begin{figure}[]
+\begin{center}
+	\includegraphics[scale=1]{images/model-description/refuel-process.PNG}
+	\caption{Modeling of the vehicle moving to the pump, parking, refueling and cleaning its windows.}
+	\label{fig:refuelprocess}
+\end{center}
+\end{figure}
+
+Next up, the queue in front of the cashier. See figure \ref{fig:cashierqueue} for this. We see here three Hold blocks, which just hold the vehicle until the next spot frees up. Furthermore we have three release blocks, which release the pump when the vehicle moves away from it. For a car, this is when it moves into the first queue spot (as a car has length 1), for a trailer, when it moves to the second queue spot (as it has length 2) and for a truck when it moves to the third queue spot (length 3). Lastly we have three assign blocks which free up the lane behind the vehicle, depending on its length, and fill/free up the queue in front of the cashier likewise.
+
+\begin{figure}[]
+\begin{center}
+	\includegraphics[scale=1]{images/model-description/cashier-queue.PNG}
+	\caption{Modeling of the vehicle moving through the queue in front of the cashier.}
+	\label{fig:cashierqueue}
+\end{center}
+\end{figure}
+
+Finally take a look at figure \ref{fig:payleave} the vehicle arrives at the cashier and pays (hold block). Then it leaves, freeing up its remaining queue spots in front of the cashier (assign block \textit{Leave}). Then we record the time the vehicle has been in the process after which we dispose of it.
+
+\begin{figure}[]
+\begin{center}
+	\includegraphics[scale=1]{images/model-description/pay-and-leave.PNG}
+	\caption{Modeling of the vehicle paying and leaving the system.}
+	\label{fig:payleave}
+\end{center}
+\end{figure}

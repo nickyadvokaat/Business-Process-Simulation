@@ -46,7 +46,7 @@ After the regular shift, we have to determine what will happen to the lanes and 
 \end{center}
 \end{figure}
 
-The last part of the cashier management is rather straightforward (figure \ref{closerestockandrelease}): based on the previous decision, the checkout is closed after which the cashier works until the lane and checkout queue are both empty after which he restocks the supplies if less than 10 minutes have passed since the checkout was closed (which is calculated by setting a variable to the current time upon closing and comparing it to current time after the queue is emptied). Or the checkout does not close and the cashier immediately restocks the supplies.
+The last part of the cashier management is rather straightforward (figure \ref{fig:closerestockandrelease}): based on the previous decision, the checkout is closed after which the cashier works until the lane and checkout queue are both empty after which he restocks the supplies if less than 10 minutes have passed since the checkout was closed (which is calculated by setting a variable to the current time upon closing and comparing it to current time after the queue is emptied). Or the checkout does not close and the cashier immediately restocks the supplies.
 After this the cashier is released and the checkout entity will be disposed.
 
 \begin{figure}[]

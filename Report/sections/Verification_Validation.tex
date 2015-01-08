@@ -1,0 +1,41 @@
+\section{Verification and Validation}
+
+In this Section, the model is verified and validated.
+In the verification, the correctness of the model is analysed, in the validation, the model is compared to the assignment description.
+More verification and validation can be done when the model reports more statistics.
+
+\subsection{Verification}
+Sanity checks, an evaluation of Little's formula and an evaluation of the PASTA property have been done in order to verify the correctness of the model. 
+All checks have been done by running the model once with a length of 30 days. 
+
+\subsubsection{Sanity checks}
+
+The total number of arrived vehicles is 61270.
+This is the sum of the number of arrived cars (42961), the number of arrived cars with trailers (9049) and the number of arrived trucks (9260).
+It is also verified that vehicles choose the shortest queue on arrival by looking at animation while running the simulation.
+
+\subsubsection{Little's formula}
+Little's formula states that the average number of jobs in the system, $N$, is equal to the product of the arrival rate $\lambda$ and the average time a job spends in the system, $W$.
+
+For the whole system, we get that the average number of cars arriving per day is 61270/30 = 2042.33. 
+If we divide this by the number of opening hours per day (24), we get an arrival rate of 2042.33/24 = 85.0972 vehicles per hour.
+The average total time a vehicle is in the system is reported to be 1.2801 hours.
+The average number of vehicles in the system (WIP) is reported to be 108.92.
+We can see that Little's law holds as:
+$$N=\lambda W = 108.933 = 85.0972\cdot1.28010 \approx 108.920.$$
+
+\subsubsection{PASTA property}
+The PASTA (\textit{Poisson Arrivals See Time Averages}) property holds when the arrival stream is a Poisson process.
+From the Arena help, we know that ``If \textit{Schedule} type is Arrival, the SCHEDULES element defines a time-dependent schedule of entity arrival rates. (\ldots)
+An exponential distribution is used to evenly distribute the \textit{Value} arrivals over each hour."
+So the time between events has an exponential distribution.
+Poisson processes are processes in which events occur at an average rate (the schedule value) but between the events, the time has an exponential distribution.
+We conclude that the arrival of vehicles in our model is a Poisson process and thus that the property holds.
+
+\subsection{Validation}
+Here, the results of a simulation are compared to the values as provided in the assignment description.
+We run the model in the situation where all lanes are always open, again the simulation was run once, with a length of 30 days.
+
+Of the total of arrived vehicles (61720), 42961 where cars. 
+This corresponds to 70.1\%, as expected.
+Also the number of cars with trailers (9049, 14.8\%) and the number of trucks (9260, 15.1\%) correspond to the expected numbers.

@@ -38,13 +38,16 @@ Each of these pumps can be either in the \textit{Available} or \textit{In Use} s
 We assume that each pump is capable of providing fuel at low and high speed, depending on the vehicle type.
 Furthermore we assume that there is enough fuel stored to ensure a continuous flow.
 
-The last class is \textit{Queue Spot}.
+The fifth class is \textit{Queue Spot}.
 This class represents the spots which are available between the pumps and the cashier.
 There are three kinds of spots.
 \textit{First Spot} is the spot right after the pump and there are three of them for every group of three lanes a served by a single cashier.
 \textit{Second  Spot} is the spot after \textit{First Spot} and there are only two of them for every group of three lanes.
 \textit{Third Spot} is the last spot and also the spot where a vehicle is served by a cashier, there is only one of them for every group of three lanes.
 Every one of these spots can either be occupied by a vehicle or be free, hence the states \textit{Occupied} and \textit{Free}.
+
+The last class is \textit{Register}.
+This class represents the register checkouts where the cashiers are seated. Every register belongs to three particular lanes in the gasstation. Each checkout can either be in the state \textit{open}, which means the checkout is occupied with a cashier and cars can refuel in the associated lanes, or \textit{closed}. In the last state the checkout can be manned. When it is, the pumps are already closed but all the vechicles which were in lane should be handled before the cashier leaves. 
 
 \begin{center}
 \begin{table}[h]

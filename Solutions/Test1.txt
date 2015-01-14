@@ -1,0 +1,297 @@
+C:\Users\s105365\Documents\GitHub\Business-Process-Simulation\Model\Attempt4.doe
+1/14/2015 2:12:48 PM
+  
+MinimizeCost:  2932.55507493121  Feasible
+A_S1:  0
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  3
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  3
+  
+MinimizeCost:  2934.61757493121  Feasible
+A_S1:  0
+A_S10:  1
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  3
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  4
+  
+MinimizeCost:  2934.6314638201  Feasible
+A_S1:  0
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  4
+A_S6:  0
+A_S7:  1
+A_S8:  3
+A_S9:  3
+  
+MinimizeCost:  2936.68007493121  Feasible
+A_S1:  0
+A_S10:  0
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  3
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  5
+  
+MinimizeCost:  2940.83285270899  Feasible
+A_S1:  0
+A_S10:  0
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  4
+A_S5:  3
+A_S6:  0
+A_S7:  1
+A_S8:  3
+A_S9:  5
+  
+MinimizeCost:  2942.91618604232  Feasible
+A_S1:  0
+A_S10:  0
+A_S11:  3
+A_S12:  1
+A_S2:  3
+A_S3:  4
+A_S4:  3
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  5
+  
+MinimizeCost:  2944.95381775873  Feasible
+A_S1:  0
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  3
+  
+MinimizeCost:  2948.25498843756  Feasible
+A_S1:  0
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  4
+A_S5:  3
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  3
+  
+MinimizeCost:  2949.07881775873  Feasible
+A_S1:  0
+A_S10:  0
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  5
+  
+MinimizeCost:  2950.31748843756  Feasible
+A_S1:  0
+A_S10:  1
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  4
+A_S5:  3
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  4
+  
+MinimizeCost:  2952.37998843756  Feasible
+A_S1:  0
+A_S10:  0
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  4
+A_S5:  3
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  5
+  
+MinimizeCost:  2953.7911563193  Feasible
+A_S1:  0
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  3
+A_S6:  0
+A_S7:  1
+A_S8:  4
+A_S9:  3
+  
+MinimizeCost:  2954.45637732645  Feasible
+A_S1:  0
+A_S10:  0
+A_S11:  3
+A_S12:  1
+A_S2:  3
+A_S3:  3
+A_S4:  4
+A_S5:  3
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  5
+  
+MinimizeCost:  2955.31492886984  Feasible
+A_S1:  0
+A_S10:  0
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  4
+A_S4:  3
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  5
+  
+MinimizeCost:  3046.09164667642  Feasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  3
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  5
+  
+MinimizeCost:  3046.77887688953  Feasible
+A_S1:  1
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  3
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  3
+  
+MinimizeCost:  3047.958709066  Feasible
+A_S1:  1
+A_S10:  1
+A_S11:  2
+A_S12:  1
+A_S2:  3
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  4
+  
+MinimizeCost:  3048.29085181767  Feasible
+A_S1:  1
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  3
+  
+MinimizeCost:  3048.41220332625  Feasible
+A_S1:  1
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  3
+A_S6:  1
+A_S7:  1
+A_S8:  4
+A_S9:  3
+  
+MinimizeCost:  3048.4700977545  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  4
+A_S6:  0
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  3048.84137688953  Feasible
+A_S1:  1
+A_S10:  1
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  3
+A_S4:  3
+A_S5:  3
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  4
+  

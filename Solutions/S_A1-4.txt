@@ -1,0 +1,143 @@
+D:\Documents\GitHub\Business-Process-Simulation\Model\Attempt4.doe
+1/19/2015 4:58:15 PM
+  
+MinimizeCost:  2877.86177977462  Feasible
+A_S1:  4
+A_S10:  1
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  2
+A_S8:  0
+A_S9:  4
+  
+MinimizeCost:  2896.19702019904  Feasible
+A_S1:  4
+A_S10:  1
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  1
+A_S7:  3
+A_S8:  0
+A_S9:  4
+  
+MinimizeCost:  2899.05502165861  Feasible
+A_S1:  4
+A_S10:  1
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  2
+A_S5:  1
+A_S6:  3
+A_S7:  2
+A_S8:  0
+A_S9:  4
+  
+MinimizeCost:  2966.48753049598  Feasible
+A_S1:  4
+A_S10:  1
+A_S11:  4
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  1
+A_S5:  3
+A_S6:  1
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  2975.40633524652  Feasible
+A_S1:  4
+A_S10:  1
+A_S11:  3
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  1
+A_S7:  2
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  2975.45318778339  Feasible
+A_S1:  4
+A_S10:  3
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  2
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  2976.5864098104  Feasible
+A_S1:  4
+A_S10:  1
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  3
+A_S5:  0
+A_S6:  3
+A_S7:  2
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  2977.96144397941  Feasible
+A_S1:  4
+A_S10:  1
+A_S11:  3
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  2980.91664020596  Feasible
+A_S1:  4
+A_S10:  2
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  2
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  2983.52016567835  Feasible
+A_S1:  4
+A_S10:  1
+A_S11:  3
+A_S12:  1
+A_S2:  0
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  2
+  

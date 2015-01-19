@@ -1,8 +1,8 @@
 \section{Verification and Validation}
 
-In this Section, the model is verified and validated.
-In the verification, the correctness of the model is analysed, in the validation, the model is compared to the assignment description.
-More verification and validation can be done when the model reports more statistics.
+The model was verified and validated.
+In verification, the correctness of a model is analysed. 
+In validation, a model is compared to the assignment description.
 
 \subsection{Verification}
 Sanity checks, an evaluation of Little's formula and an evaluation of the PASTA property have been done in order to verify the correctness of the model. 
@@ -10,32 +10,51 @@ All checks have been done by running the model once with a length of 30 days.
 
 \subsubsection{Sanity checks}
 
-The total number of arrived vehicles is 61270.
-This is the sum of the number of arrived cars (42961), the number of arrived cars with trailers (9049) and the number of arrived trucks (9260).
+For these sanity checks, the model was run with a schedule where all lanes are always opened.
+The total number of arrived vehicles is 61,409.
+This is the sum of the number of arrived cars (43,055), the number of arrived cars with trailers (9,186) and the number of arrived trucks (9,168).
 It is also verified that vehicles choose the shortest queue on arrival by looking at animation while running the simulation.
+Finally, it is confirmed that the cost of this naive schedule is indeed about 3,200 euro a day. 
+The total number of worked hours is 3,818.8 for the whole month. 
+So 127.3 hours per day, which at a rate of 25 euro per hour comes down to a total cost of 3,182.30 euro.
 
 \subsubsection{Little's formula}
 Little's formula states that the average number of jobs in the system, $N$, is equal to the product of the arrival rate $\lambda$ and the average time a job spends in the system, $W$.
 
-For the whole system, we get that the average number of cars arriving per day is 61270/30 = 2042.33. 
-If we divide this by the number of opening hours per day (24), we get an arrival rate of 2042.33/24 = 85.0972 vehicles per hour.
-The average total time a vehicle is in the system is reported to be 1.2801 hours.
-The average number of vehicles in the system (WIP) is reported to be 108.92.
+For the whole system, we get that the average number of cars arriving per day is 61,409/30 = 2,046.97. 
+If we divide this by the number of opening hours per day (24), we get an arrival rate of 2046.97/24 = 85.2903 vehicles per hour.
+The average total time a vehicle is in the system is reported to be 0.2713 hours.
+The average number of vehicles in the system (WIP) is reported to be 23.1324.
 We can see that Little's law holds as:
-$$N=\lambda W = 108.933 = 85.0972\cdot1.28010 \approx 108.920.$$
+$$N=\lambda W = 23.2393 = 85.2903\cdot0.2713 \approx 23.1324.$$
 
 \subsubsection{PASTA property}
 The PASTA (\textit{Poisson Arrivals See Time Averages}) property holds when the arrival stream is a Poisson process.
-From the Arena help, we know that ``If \textit{Schedule} type is Arrival, the SCHEDULES element defines a time-dependent schedule of entity arrival rates. (\ldots)
+From the Arena help, we know that ``If \textit{Schedule} type is Arrival, the \textsc{schedules} element defines a time-dependent schedule of entity arrival rates. (\ldots)
 An exponential distribution is used to evenly distribute the \textit{Value} arrivals over each hour."
 So the time between events has an exponential distribution.
 Poisson processes are processes in which events occur at an average rate (the schedule value) but between the events, the time has an exponential distribution.
 We conclude that the arrival of vehicles in our model is a Poisson process and thus that the property holds.
+%TODO less bullshit, more testing
 
 \subsection{Validation}
 Here, the results of a simulation are compared to the values as provided in the assignment description.
-We run the model in the situation where all lanes are always open, again the simulation was run once, with a length of 30 days.
+The model was again simulated once with length 30 days and the schedule where all lanes are always opened.
 
-Of the total of arrived vehicles (61720), 42961 where cars. 
+Of the total number of arrived vehicles (61,406), 43,055 where cars. 
 This corresponds to 70.1\%, as expected.
-Also the number of cars with trailers (9049, 14.8\%) and the number of trucks (9260, 15.1\%) correspond to the expected numbers.
+Also the number of cars with trailers (9,186, 15.0\%) and the number of trucks (9,168, 14.9\%) correspond to the expected numbers.
+Furthermore, the total number of blocked vehicles is 0 in this situation, which shows that the capacity of the fuel station is enough to handle the peak loads.
+
+Finally, a simulation was run with an arrival schedule of 1 arrival every other hour.
+This schedule was chosen to make sure no car had to wait.
+The average time a car spent in the system was reported to be 0.076 hours, so 4.56 minutes. 
+This value is expected from the delays.
+Parking the vehicle at the pump, refuelling, cleaning the windows and paying at the cashier can take between 100 seconds (in case of no fuel bought) and 442.5 seconds (in case of 65 liters of fuel bought). 
+The expected values for all delays for cars is 222.5 seconds, 3.7 minutes.
+The higher average can be explained by the triangular distribution for the waiting time at the cashier. 
+The typical value is 90 seconds but it can be much more (270 seconds) and not much less (60 seconds on minimum). 
+
+
+
+

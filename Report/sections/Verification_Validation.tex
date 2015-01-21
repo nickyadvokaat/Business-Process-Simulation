@@ -1,8 +1,8 @@
 \section{Verification and Validation}
 
 The model was verified and validated.
-In verification, the correctness of a model is analysed. 
-In validation, a model is compared to the assignment description.
+In verification, the correctness of the model is analysed. 
+In validation, the model is compared to the assignment description.
 
 \subsection{Verification}
 Sanity checks, an evaluation of Little's formula and an evaluation of the PASTA property have been done in order to verify the correctness of the model. 
@@ -13,10 +13,11 @@ All checks have been done by running the model once with a length of 30 days.
 For these sanity checks, the model was run with a schedule where all lanes are always opened.
 The total number of arrived vehicles is 61,409.
 This is the sum of the number of arrived cars (43,055), the number of arrived cars with trailers (9,186) and the number of arrived trucks (9,168).
-It is also verified that vehicles choose the shortest queue on arrival by looking at animation while running the simulation.
-Finally, it is confirmed that the cost of this naive schedule is indeed about 3,200 euro a day. 
+It is also verified that vehicles choose the shortest queue on arrival by looking at the animation while running the simulation.
+Note that this is the shortest queue for the fuel pump, disregarding the queue for the cashier.
+Finally, it is confirmed that the cost of this naive schedule is indeed about 3,200 Euro a day. 
 The total number of worked hours is 3,818.8 for the whole month. 
-So 127.3 hours per day, which at a rate of 25 euro per hour comes down to a total cost of 3,182.30 euro.
+So 127.3 hours per day, which at a rate of 25 Euro per hour comes down to a total cost of 3,182.30 Euro.
 
 \subsubsection{Little's formula}
 Little's formula states that the average number of jobs in the system, $N$, is equal to the product of the arrival rate $\lambda$ and the average time a job spends in the system, $W$.
@@ -50,7 +51,7 @@ Finally, a simulation was run with an arrival schedule of 1 arrival every other 
 This schedule was chosen to make sure no car had to wait.
 The average time a car spent in the system was reported to be 0.076 hours, so 4.56 minutes. 
 This value is expected from the delays.
-Parking the vehicle at the pump, refuelling, cleaning the windows and paying at the cashier can take between 100 seconds (in case of no fuel bought) and 442.5 seconds (in case of 65 liters of fuel bought). 
+Parking the vehicle at the pump, refuelling, cleaning the windows and paying at the cashier can take between 100 seconds (in case of no fuel bought) and 442.5 seconds (in case of 65L of fuel bought). 
 The expected values for all delays for cars is 222.5 seconds, 3.7 minutes.
 The higher average can be explained by the triangular distribution for the waiting time at the cashier. 
 The typical value is 90 seconds but it can be much more (270 seconds) and not much less (60 seconds on minimum). 

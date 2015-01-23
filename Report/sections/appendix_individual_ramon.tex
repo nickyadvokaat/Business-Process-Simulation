@@ -1,7 +1,7 @@
 \section{Appendix Individual Assignment 0758873}\label{app:indivramon}
 First of all, some values within the model may have to be changed.
 For example, the arrival rates of cars, trucks and cars with trailers may differ, depending on the country.
-In fact, the given vehicle types may have to be changed altogether. \\
+In fact, the given vehicle types may have to be changed altogether, for example, we may need to introduce motorcyclists in countries where these are more common. \\
 Additionally, the requirements for the fuel station may be altered.
 In countries where the inhabitants are generally more laid back, the requirements regarding total time spent refueling can be lowered, which could allow for less cashiers on schedule, thus resulting in a more cost efficient fuel station. \\
 
@@ -11,4 +11,12 @@ As of now, the model doesn't allow for easy adding or deleting lanes or cash reg
 Additionally, regulations may differ per country.
 As stated in the assignment, fuel prices are fixed in Luxembourg, but they may not be in other countries.
 The model could be extended to take into account the difference in arrival rates depending on fuel price, and calculate resulting changes on profit.
-Moreover, fuel cost may differ for trucks and regular cars, or there may even be different types of fuel. 
+Changes in fuel cost may also influence the amount of fuel a customer purchases.
+Moreover, fuel cost may differ for trucks and regular cars, or there may even be different types of fuel. \\
+
+These changes in the model may call for changes in the optimization process as well.
+As of now, optimization is mostly a minimization of the cost, which is mostly due to the fact that a lot of the variables in the model are fixed.
+As stated in the report, however we are actually after maximum profit.
+Given that we can alter fuel prices, the optimization model may grow in complexity to a great extent. \\
+In short, expanding to another country may call for significant changes to model as well as the optimization model.
+This may come at the price of increased complexity, however, thus potentially reducing the model's efficiency.

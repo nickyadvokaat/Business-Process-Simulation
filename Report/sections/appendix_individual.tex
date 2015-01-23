@@ -1,0 +1,70 @@
+\section{Appendix Individual Assignments}\label{app:indiv}
+\subsection{Individual Assignment 0740567}\label{app:indivnicky}
+\textbf{One of Bill’s competitors has recently upgraded his truck fuel pumps to super-high- speed pumps, which can pump 250 liters per minute. Could you comment if it would be wise for Bill to invest in such pumps?}\\
+\\
+The average car pumps 50L at a rate of $40\frac{L}{minute}$, the average truck pumps 1000L at a rate of $130\frac{L}{minute}$. Then the average pumping times are 1:15 and 7:42 minutes respectively. If we look at the entire process without waiting, parking takes 30-45 seconds, driving away 10-30 seconds and paying 90 seconds to 4:30 minutes. The entire process then roughly takes 4:15 and 9:00s minutes respectively, of which the actual pumping takes 40\%/85\% of the time.\\
+\\
+Now consider we have pumps that have a fuel rate of $250\frac{L}{minute}$, of course only trucks are able to process this amount of fuel, trucks make up for 15\% of incoming vehicles. With this fuel rate it takes 4 minutes to refuel, the entire process now takes about 7 minutes, a reduction of 23\%.\\
+\\
+I think the advantage of upgrading the pump is too small to be worthwhile. Especially because it can only be used on trucks, and because of Bill's unusual setup of allowing trucks at every pump. Maybe Bill can upgrade only some of the pumps and add signs that these are for trucks. But in the end it comes down to the price of the upgrade.
+\newpage
+\subsection{Individual Assignment 0741516}\label{app:indivjasper}
+\textbf{Since the fuel station has not been built yet, changes in the layout may still be made. What change would you suggest to Bill, if you do not have to care about the cost of such a change?}\\
+\\
+When we were modeling the fuel station as described in the assignment we quickly found a bottleneck in the lanes. Every three lanes have to be served by only one single cashier. This means the three lanes have to merge into one single lane. So instead of just moving forward to the cashier when you are done refueling you first have to check whether these spots in front of you are free. If not you have to wait and you still bock the pump so all the other vehicles behind you also have to wait. It would be very convenient if we have a solution which makes sure that every lane gets its own kind of cashier, such that you do not have to wait on other lanes when you are done refueling.\\
+A straightforward method would be to just give all the lanes a cashier, but this is very expensive so we wont do this. Instead we will use a more intelligent system. This system is also used in other countries and is also know as the "unattended fuel station". This means that a pump is provided with a system that accepts debit cards such that you first enter your debit card and next you refuel and after that you pay with your debit card and you get the card back and can continue on the road again. \\
+The idea is now that from every set of three lanes, the central lane still has a cashier, where a customer can still pay in cash or with a debit card and the other two get the debit card system. In this way all the lanes have their own (virtual) cashier and customers are no longer depending on other lanes considering the payment. The throughput of the whole fuel station will be much larger, in this way. Note that in front of each queue there must be a sign which tells the customer if the pump is a debit card only pump or that you can pay in cash (the line with the real cashier).\\
+The reason we still have cashiers and not only these debit card pumps is that cashiers also have to do some restocking and when a customer needs help he or she can still join the lane with the real customer. Also there would be no supervision when there are only debit card pumps. Another great advantage of this system is that the lanes which have a debit card system can always stay open. This means that Bill is also able to chose that he will only open the pumps with this system and keeps one cashier on duty for restocking and all the other things the pump cant do itself. This means Bill is able to schedule less cashiers and this means more profit for Bill.
+\newpage
+\subsection{Individual Assignment 0746107}\label{app:indivbram}
+\textbf{Currently, arriving vehicles queue up in the shortest queue. Bill is thinking about a way to guide vehicles to a specific queue. Which queue selection mechanism would you suggest to use for that?}\\
+\\
+Arriving vehicles line up in the shortest queue because they want to wait as short as possible, which is also what Bill wants (shorter wait time means less cashiers needed within the required constraints). But it is not guaranteed that the shortest queue also has the shortest wait time. The wait time depends on how long the vehicles currently in the queue will block the pump. This is also affected by the vehicles in the other lanes with the same cashier, as a vehicle could still block the pump when it cannot fully move into the cashier's queue.\\
+What Bill could do is estimate the time it would take for a vehicle to get through the entire process of waiting, refueling and paying, for each lane. To estimate that time for a specific lane, he can multiply the number of trucks in that lane by the average refuel time of a truck, do the same for cars and cars with trailers, and then add the results to get an estimated refueling time for the vehicles currently in the queue.\\
+Furthermore, he can estimate a time for the pump to free up after a vehicle finishes refueling. This is the time it takes to clean the windows and the average wait time for the necessary cashier queue spots to free up. Of course, this is determined per type of vehicle again. So the estimated time for the pump to free up after refueling is: the average time it takes to clean the windows + the average time it takes for enough spots to free up, dependant on the vehicle type. Estimate this time for each vehicle in the lane and add these estimates so you get the total time for the pump to free up after it has been used.\\\\
+Finally, add the total times for refueling and for the pump to free up and you get an estimate for the wait time until the vehicle can start refueling. The lane with the shortest wait time would be the preferred lane so this lane would be selected for the vehicle.
+\newpage
+\subsection{Individual Assignment 0747896}\label{app:indivrobbert}
+\textbf{As you may know, Luxembourg is a very beautiful country for motorbikes to ride through. However, they seem to be avoiding Bills fuel station. Do you have any suggestions for attracting motorbikes?}
+
+For more detailed analysis, we would need to know arrival counts as provided for cars, cars with trailers and trucks.
+The question suggests that a lot of motorbikes pass by but no use the fuel station.
+There can be more reasons for this that just the layout/operation of this fuel station. 
+For example, it may be that they all know that fuel is cheaper in Luxembourg than in surrounding countries and therefore postpone refuelling until their arrival in the country and tank at the first possible stop.
+
+Motorbikes typically have much smaller fuel tanks than cars and trucks.
+This implies that their refuelling time would also be much shorter.
+Which could imply that motorbike drivers are less willing to wait a long time before they can refuel. 
+Much like in a supermarket, where you do not want to wait for other people with a lot of groceries if you only have a carton of milk whereas if you have a full cart too, you are more willing to wait for others.
+
+The first suggestion is to count the actual number of motorbikes that pass the fuel station but not use it.
+Depending on the numbers, several alternatives can be considered.
+First, a lane only for motorbikes could be opened.
+This would reduce the waiting time for motorbikes in general.
+Another consideration could be to prioritize motorbikes over other vehicles.
+Much like in a traffic jam, where motorbikes are allowed to overtake by driving between two lanes jammed with cars.
+This should only be implemented in a situation with few motorbikes, otherwise the other vehicles would have to wait too long.
+Finally, we can consider adding features to make the waiting more comfortable for motorbike drivers e.g. a roof over the entire waiting lane such that they stand dry.
+\newpage
+\subsection{Individual Assignment 0758873}\label{app:indivramon}
+First of all, some values within the model may have to be changed.
+For example, the arrival rates of cars, trucks and cars with trailers may differ, depending on the country.
+In fact, the given vehicle types may have to be changed altogether, for example, we may need to introduce motorcyclists in countries where these are more common. \\
+Additionally, the requirements for the fuel station may be altered.
+In countries where the inhabitants are generally more laid back, the requirements regarding total time spent refueling can be lowered, which could allow for less cashiers on schedule, thus resulting in a more cost efficient fuel station. \\
+
+Most of the changes stated above are altered rather easily in our model, by simply entering different values for the corresponding variables, it could be argued those aren't actual changes in the model at all.
+However, some more invasive alterations may have to take place.
+As of now, the model doesn't allow for easy adding or deleting lanes or cash registers, which may be needed, depending on the location. \\
+Additionally, regulations may differ per country.
+As stated in the assignment, fuel prices are fixed in Luxembourg, but they may not be in other countries.
+The model could be extended to take into account the difference in arrival rates depending on fuel price, and calculate resulting changes on profit.
+Changes in fuel cost may also influence the amount of fuel a customer purchases.
+Moreover, fuel cost may differ for trucks and regular cars, or there may even be different types of fuel. \\
+
+These changes in the model may call for changes in the optimization process as well.
+As of now, optimization is mostly a minimization of the cost, which is mostly due to the fact that a lot of the variables in the model are fixed.
+As stated in the report, however we are actually after maximum profit.
+Given that we can alter fuel prices, the optimization model may grow in complexity to a great extent. \\
+In short, expanding to another country may call for significant changes to model as well as the optimization model.
+This may come at the price of increased complexity, however, thus potentially reducing the model's efficiency.

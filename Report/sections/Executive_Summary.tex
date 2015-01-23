@@ -5,3 +5,16 @@ Bill Perterson of BP fuel wants to open a new large fuel station. He has a probl
 \item Trucks typically spend at most 45 minutes from arrival to departure.
 \item At most 1$\%$ of the arriving vehicles will be blocked.
 \end{enumerate}
+
+\noindent The trivial solution of always keeping all checkouts open meets all of these requirements. 
+No cars will be blocked and the throughput time of the cars and trucks will be low.
+However, if all the checkouts will be occupied, these costs will be around \EUR{3200}, which is unacceptable.
+Instead, an optimal solution has to be found such that the schedule meets the requirements stated above and the cost of the cashiers scheduled is minimized.
+
+\noindent Using simulation techniques various feasible solutions were found. The best solution is described in detail in section 9. 
+This solution has a total cost of \EUR{2242,50} per day. 
+This is about \EUR{900} less than the trivial solution. 
+Since a cashier costs about \EUR{100} a day, we have almost cut away one third of the total amount of cashiers. 
+In this case both the cars and trucks spend on average less than half an hour in the fuel station and only 0.53\% of all vehicles get blocked.
+
+\noindent A decreasing demand of fuel in the future because of more fuel efficient cars can cause a drop of 20\% in the demand for fuel and the arrival rate of cars. When you create a schedule for this it has a total cost of \EUR{1767,50}. This is a drop of 20\% of the costs. This seems good, but the total profit has decreased a little more than 20\%, because both the fuel amount and the arrival rate dropped with 20\%.

@@ -1,7 +1,20 @@
 \section{Executive Summary}
-Bill Perterson of BP fuel wants to open a new large fuel station. He has a problem with creating a cashier schedule for the pumps, such that his profit is maximized but the schedule also meets the following requirements:
+Bill Perterson of BP fuel wants to open a new large fuel station. In this fuel station there are lanes before the pumps in which vehicles queue up, and cash registers after the pumps to pay for the gas.  Bill has assigned us the task of creating a cashier schedule for the registers. He wants to minimize his expenses in paychecks, but the schedule also has to meet the following requirements:
+
 \begin{enumerate}
 \item Cars (with  trailers) typically spend at most 30 minutes from arrival to departure.
 \item Trucks typically spend at most 45 minutes from arrival to departure.
-\item At most 1$\%$ of the arriving vehicles will be blocked.
+\item At most 1$\%$ of the arriving vehicles will be blocked. A vehicle is blocked when the lanes before the fuel pumps are full.
 \end{enumerate}
+
+\noindent The trivial solution of always keeping all checkouts open meets all of these requirements. 
+No cars will be blocked and the throughput time of the cars and trucks will be low.
+However, if all the checkouts will be occupied, the costs in paychecks will be around \EUR{3200} per day, which is unacceptable.
+Instead, an optimal solution has to be found such that the schedule meets the requirements stated above, while the cost of the cashiers scheduled is minimized.
+
+\noindent Using simulation techniques various feasible solutions were found. The best solution is described in detail in section 9. 
+This solution has a total cost of \EUR{2242,50} per day, which is about \EUR{900} less than the trivial solution. 
+Since a cashier costs about \EUR{100} a day, we have almost cut away one third of the total amount of cashiers. 
+In this case both the cars and trucks spend on average less than half an hour in the fuel station and only 0.53\% of all vehicles get blocked.
+
+\noindent A decreasing demand of fuel in the future caused by more fuel efficient cars can cause a drop of 20\% both in the demand for fuel as well as in the arrival rate of cars. Simulating this new situation gives us a schedule that has a total cost of \EUR{1767,50}. This is a drop of 20\% compared to the original costs. This seems good, but the total profit has decreased a little more than 20\%, because both the fuel amount and the arrival rate dropped with 20\%.

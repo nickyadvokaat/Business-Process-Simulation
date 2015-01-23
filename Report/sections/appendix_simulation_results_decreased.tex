@@ -1,0 +1,74 @@
+\section{Simulation Results for Decrease in Demands}\label{app:demands}
+Bill also asked how his cashier schedule should be modified in the future, such that when cars are more fuel efficient and have to visit less often his costs are minimilized. 
+For this we used the same Arena model as for the normal schedule only with 10, 20 and 30 \% less arrivals and 10, 20 and 30 \% less fuel bought. 
+To find optimal solutions for these new instances we did some simulations running OptQuest. 
+In this case there were 2 rounds.
+In the first round for -10\% we did a 1000 simulations with each 1 replication. 
+At the start we used the solution of the normal schedule as the suggested solution, because solutions for this schedule could never be worse than the original schedule.
+At the end we choose the best solution and did another 50 replications in Arena to check if this solution was indead valid. 
+We did the same for -20\% and -30\%, only for -20\% we used the solution for -10\% as suggested solution and for -30\% we used the solution for -20\% as suggested solution.
+The solutions found are shown in table \autoref{tab:optdec}.
+
+\begin{table}[h!]
+	\centering
+	\begin{tabular}{l | l | l | l |}
+		Shift number & \#Cashiers for -10\% & \#Cashiers for -20\% & \#Cashiers for -30\% \\
+		A\_S1 & 1  & 1 & 0\\
+		A\_S2 & 1  & 1 & 1\\
+		A\_S3 & 1  & 1 & 1\\
+		A\_S4 & 2  & 2 & 2\\
+		A\_S5 & 2  & 1 & 1\\
+		A\_S6 & 1  & 1 & 1\\
+		A\_S7 & 1  & 1 & 1\\
+		A\_S8 & 2  & 2 & 1\\
+		A\_S9 & 2  & 2 & 2\\
+		A\_S10 & 2  & 2 & 2\\
+		A\_S11 & 0  & 1 & 0\\
+		A\_S12 & 2  & 2 & 2\\
+	\end{tabular}
+	\caption{optimal solution for decreased amounts}
+	\label{tab:optdec}
+\end{table}
+
+The total costs of the schedules can be found in table \autoref{tab:costsdec}. As you can see this is alread a lot less than the original schedule, so that is good.
+
+\begin{table}[h!]
+	\centering
+	\begin{tabular}{c|c|c|c|c|c|c|}
+		\cline{2-7}
+		& \multicolumn{2}{c|}{-10\%} & \multicolumn{2}{c|}{-20\%} & \multicolumn{2}{c|}{-30\%} \\ \cline{2-7} 
+		& Hours     & Percentage     & Hours     & Percentage     & Hours     & Percentage     \\ \hline
+		\multicolumn{1}{|c|}{Scheduled hours} & 68.00     & 92.0\%         & 64.00     & 93.3\%         & 56.00     & 93.5\%         \\ \hline
+		\multicolumn{1}{|c|}{Extra hours}     & 5.93      & 8.0\%          & 4.63      & 6.7\%          & 3.92      & 6.5\%          \\ \hline
+		\multicolumn{1}{|c|}{Total}           & 73.93     & 100\%          & 68.63     & 100\%          & 59.92     & 100\%          \\ \hline
+	\end{tabular}
+	\caption{Average number of hours worked on a single day for reduced traffic}
+	\label{tab:costsdec}
+\end{table}
+\newpage
+In table \autoref{tab:blockReddec} and table \autoref{tab:throughputDecdec} the blockrates and throughput times of these solutions can be found. As you can see all of them still adhere to the constraints.
+\begin{table}
+	\centering
+	\begin{minipage}{.5\linewidth}
+	\begin{tabular}{l|l|l|l|}
+		\cline{2-4}
+		& -10\% & -20\% & -30\% \\ \hline
+		\multicolumn{1}{|l|}{All vehicles} & 1.8\% & 0.7\% & 0.8\% \\ \hline
+		\multicolumn{1}{|l|}{Cars}         & 0.6\% & 0.2\% & 0.5\% \\ \hline
+		\multicolumn{1}{|l|}{Trucks}       & 8.5\% & 3.9\% & 2.7\% \\ \hline
+	\end{tabular}
+	\caption{Block rate percentage}
+	\label{tab:blockReddec}
+	\end{minipage}%
+	\begin{minipage}{.5\linewidth}
+	\centering
+	\begin{tabular}{c|c|c|c|}
+		\cline{2-4}
+		\multicolumn{1}{l|}{}        & \multicolumn{1}{l|}{-10\%} & \multicolumn{1}{l|}{-20\%} & \multicolumn{1}{l|}{-30\%} \\ \hline
+		\multicolumn{1}{|c|}{Cars}   & 51m:04s                    & 39m:54s                    & 35m:36s                    \\ \hline
+		\multicolumn{1}{|c|}{Trucks} & 50m:20s                    & 40m:22s                    & 36m:19s                    \\ \hline
+	\end{tabular}
+	\caption{Average throughput}
+	\label{tab:throughputDecdec}
+	\end{minipage}
+\end{table}

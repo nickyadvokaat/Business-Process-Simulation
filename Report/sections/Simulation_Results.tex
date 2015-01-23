@@ -104,6 +104,17 @@ The solution we eventually have is shown in \autoref{tab:opt}.
 	\label{tab:block}
 \end{table}
 
+\begin{table}
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline
+		Cars & 25m:31s \\ \hline
+		Trucks & 29m:16s \\ \hline
+	\end{tabular}
+	\caption{Average throughput time}
+	\label{tab:throughput}
+\end{table}
+
 The total cost of this schedule is 60,838.20 Eur, in comparison, the naive schedule for 30 days would cost 96,000 Eur.
 
 
@@ -112,3 +123,43 @@ Another question asked by Bill was how must he adapt the schedule such that in t
 To simulate this we lowered the arrival amounts with 10, 20 and 30\% and  also the amount of fuel needid with the same amounts. 
 The way of getting this solution was different from from the way we got it for the current schedule.
 This is all explained in appendix TODO.
+
+\begin{table}
+	\centering
+	\begin{tabular}{c|c|c|c|c|c|c|}
+		\cline{2-7}
+		& \multicolumn{2}{c|}{-10\%} & \multicolumn{2}{c|}{-20\%} & \multicolumn{2}{c|}{-30\%} \\ \cline{2-7} 
+		& Hours     & Percentage     & Hours     & Percentage     & Hours     & Percentage     \\ \hline
+		\multicolumn{1}{|c|}{Scheduled hours} & 68.00     & 92.0\%         & 64.00     & 93.3\%         & 56.00     & 93.5\%         \\ \hline
+		\multicolumn{1}{|c|}{Extra hours}     & 5.93      & 8.0\%          & 4.63      & 6.7\%          & 3.92      & 6.5\%          \\ \hline
+		\multicolumn{1}{|c|}{Total}           & 73.93     & 100\%          & 68.63     & 100\%          & 59.92     & 100\%          \\ \hline
+	\end{tabular}
+	\caption{Average number of hours worked on a single day for reduced traffic}
+	\label{tab:hours}
+\end{table}
+
+
+\begin{table}
+	\centering
+	\begin{tabular}{l|l|l|l|}
+		\cline{2-4}
+		& -10\% & -20\% & -30\% \\ \hline
+		\multicolumn{1}{|l|}{All vehicles} & 1.8\% & 0.7\% & 0.8\% \\ \hline
+		\multicolumn{1}{|l|}{Cars}         & 0.6\% & 0.2\% & 0.5\% \\ \hline
+		\multicolumn{1}{|l|}{Trucks}       & 8.5\% & 0.7\% & 2.7\% \\ \hline
+	\end{tabular}
+	\caption{Block rate percentage for reduced traffic}
+	\label{tab:blockRed}
+\end{table}
+
+\begin{table}
+	\centering
+	\begin{tabular}{c|c|c|c|}
+		\cline{2-4}
+		\multicolumn{1}{l|}{}        & \multicolumn{1}{l|}{-10\%} & \multicolumn{1}{l|}{-20\%} & \multicolumn{1}{l|}{-30\%} \\ \hline
+		\multicolumn{1}{|c|}{Cars}   & 51m:04s                    & 39m:54s                    & 35m:36s                    \\ \hline
+		\multicolumn{1}{|c|}{Trucks} & 50m:20s                    & 40m:22s                    & 36m:19s                    \\ \hline
+	\end{tabular}
+	\caption{Average throughput for reduced traffic}
+	\label{tab:throughputDec}
+\end{table}

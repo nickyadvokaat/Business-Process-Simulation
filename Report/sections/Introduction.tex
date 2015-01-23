@@ -1,6 +1,6 @@
 \section{Introduction}
-Despite the rapid depletion of fossil fuel resources, and the rise of the electric vehicle industry, the fuel station industry remains big business.
-As a result, Bill Peterson of BP fuel is opening a new, very large fuel station in Luxemburg.
+Despite the rapid depletion of fossil fuel resources and the rising popularity of electric vehicles, the fuel station industry remains big business.
+As a result, Bill Peterson of BP fuel is opening a new, very large fuel station in Luxembourg.
 Bill has a specific layout in mind: the fuel station will have 15 fuel pumps divided in 5 groups of 3 pumps each, where every group will have a single cashier.
 Vehicles will queue in one of the 15 lanes and wait for their turn at the pump.
 Afterwards, they will head to the associated cashier to pay.
@@ -8,11 +8,14 @@ Afterwards, they will head to the associated cashier to pay.
 Since Bill lacks experience in scheduling the workers in the specified fuel station layout, we, group 13, have been hired as a consultant to tackle that problem.
 Obviously, our goal is to maximize the profit of the fuel station, whilst satisfying several requirements made by Bill regarding customer satisfaction.
 We are, however, limited in certain aspects.
-First of all, fuel prices are fixed in Luxemburg, so we cannot reduce or increase prices to either get more customers or increase profit per customer.
+First of all, fuel prices are fixed in Luxembourg, so we cannot reduce or increase prices to either get more customers or increase profit per customer.
 As a result, the only way for us to increase the profit, is to reduce the cost of the fuel station, by changing the schedule of the workers.
+In addition, Bill requires a maximum average throughput time of 30 minutes for cars and 45 minutes for trucks, as well as a maximum rate of blocked vehicles (i.e. a vehicle arrives at fuel station but can not enter a lane because it does not fit in any opened lane) of 1\%.
 Luckily, Bill has collected many statistics about vehicles entering one of his competitor's fuel stations and has recorded information about fuel amounts in some of his other fuel stations.
 
 In this report we will analyse the problem described above, to provide a base on which we will later deliver a recommendation regarding not only the current situation, but possible future situations, if his needs were to change.
-We will attempt to do so, firstly by describing the system in detail, making assumptions on things that were not explained fully.
+We will do so, firstly by describing the system in detail, making assumptions on things that were not explained fully.
 Next, we will analyse the input provided to us, trying to fit statistical models to the data.
-Finally, we will provide conceptual models by all group members individually.
+We then model the fuel station is Arena, a tool for process simulations.
+We verify the correctness of our model and then describe the experiments executed using this model.
+Finally, we present the results of the simulations and recommend a cashier schedule for the fuel station.

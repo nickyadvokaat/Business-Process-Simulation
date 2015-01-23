@@ -29,7 +29,7 @@
 
 \newcommand{\uni}{Eindhoven University of Technology}
 \newcommand{\fase}{Computer Science and Engineering}
-\newcommand{\vak}{Business Process Simulations}
+\newcommand{\vak}{Business Process Simulation}
 \newcommand{\vakcode}{2II75}
 \newcommand{\essaytitle}{Large Fuel Station Analysis}
 \newcommand{\stad}{Eindhoven}
@@ -68,12 +68,15 @@
 
 \begin{document}
 	\input{sections/Titlepage}
+	
+	\input{sections/Executive_Summary}
+	\newpage
+	
     \tableofcontents
     \listoftables
-    \listoffigures
+    \listoffigures    
     \newpage
-	\input{sections/Executive_Summary}
-    \newpage
+    
 	\input{sections/Introduction}
 	
 	\input{sections/System_Description}
@@ -86,7 +89,14 @@
 
 	\input{sections/Experiment_Setup}
 		
+	\input{sections/Output_Analysis}
+	
+	\input{sections/Simulation_Results}
+	
+	\input{sections/Conclusions_and_Recommendations}
+		
 	\newpage
+	
 	\begin{appendix}
 	\input{sections/appendix_conceptual_models}
 	\newpage

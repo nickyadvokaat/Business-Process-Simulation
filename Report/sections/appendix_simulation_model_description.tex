@@ -153,7 +153,7 @@ This essentially consists of three delays: parking the vehicle in the \textit{Pa
 
 \begin{figure}[h]
 \begin{center}
-	\includegraphics[scale=1]{images/model-description/refuel-process.PNG}
+	\includegraphics[scale=0.8]{images/model-description/refuel-process.PNG}
 	\caption{Modeling of the vehicle moving to the pump, parking, refueling and cleaning its windows.}
 	\label{fig:refuelprocess}
 \end{center}
@@ -165,9 +165,9 @@ Furthermore we have three release blocks, which release the pump when the vehicl
 For a car, this is when it moves into the first queue spot (as a car has length 1), for a car with trailer, when it moves to the second queue spot (as it has length 2) and for a truck when it moves to the third queue spot (length 3). 
 Lastly we have three assign blocks which free up the lane behind the vehicle, depending on its length, and fill/free up the queue in front of the cashier likewise.
 
-\begin{figure}[h]
+\begin{figure}[h!]
 \begin{center}
-	\includegraphics[scale=1]{images/model-description/cashier-queue.PNG}
+	\includegraphics[scale=0.8]{images/model-description/cashier-queue.PNG}
 	\caption{Modeling of the vehicle moving through the queue in front of the cashier.}
 	\label{fig:cashierqueue}
 \end{center}
@@ -178,9 +178,9 @@ Finally we discuss the submodel shown in \autoref{fig:payleave}.
  Then it leaves, freeing up its remaining queue spots in front of the cashier (assign block \textit{Leave}).
  Then we record the time the vehicle has been in the process after which we dispose of it.
 
-\begin{figure}[h]
+\begin{figure}[h!]
 \begin{center}
-	\includegraphics[scale=1]{images/model-description/pay-and-leave.PNG}
+	\includegraphics[scale=0.8]{images/model-description/pay-and-leave.PNG}
 	\caption{Modeling of the vehicle paying and leaving the system.}
 	\label{fig:payleave}
 \end{center}

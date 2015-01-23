@@ -12,7 +12,6 @@ For the last part we tried to adapt the solution OptQuest gave us manually.
 This lead to a better solution, because we could decrease the number of cashiers for Shift 1, with 1.
 The solution we eventually have is shown in \autoref{tab:opt}.
 
-\subsection{Optimal Solution}
 \begin{table}
 	\centering
 	\caption{optimal solution}
@@ -33,6 +32,11 @@ The solution we eventually have is shown in \autoref{tab:opt}.
 	\end{tabular}
 	\label{tab:opt}
 \end{table}
+
+\subsection{Optimal Solution}
+The optimal cashier schedule for Bill's fuel station is shown in figure \ref{fig:schedule}.
+This schedule has 21 rows and every row represents a cashier working a shift.
+This means for each day there are 21 cashiers scheduled, which is much better than the 30 cashiers in a naive schedule.
 
 \newcommand{\cc}{\cellcolor{cyan}}
 
@@ -76,23 +80,38 @@ The solution we eventually have is shown in \autoref{tab:opt}.
 \label{fig:schedule}
 \end{figure}
 
-\begin{table}
+The total cost of the solution is \EUR{2242,50} euro, this is \EUR{2100} euro for cashiers working their shift and \EUR{142,50} euro for cashiers working overtime (restocking or continuing their shift until the lanes in front of their checkout are empty). 
+This is a lot less than the \EUR{3000} a day the naive schedule would have costed.
+This is all shown in table \autoref{tab:costs}.
+
+\begin{table}[h!]
 	\centering
-\begin{tabular}{|c|c|c|}
+\begin{tabular}{|c|c|c|c|}
 	\hline
-	& Hours & Percentage \\ \hline \hline
-	Scheduled Hours & 84.0 & 93.6\%\\
-	Extra Hours & 5.7 & 6.4\% \\
+	& Hours & Percentage & Cost\\ \hline \hline
+	Scheduled Hours & 84.0 & 93.6\% & \EUR{2100} \\
+	Extra Hours & 5.7 & 6.4\% & \EUR{142,50}\\
 	\hline
 	\hline
-	Total & 89.7 & 100\% \\
+	Total & 89.7 & 100\% & \EUR{2242,50}\\
 	\hline
 \end{tabular}
 \caption{Average number of hours worked on a single day}
-\label{tab:hours}
+\label{tab:costs}
 \end{table}
 
+There were also other demands of Bill regarding customer satisfaction. 
+The first was that the total number of vehicles that are blocked and thus cannot enter the fuel station, can not be higher than 1\%.
+As you can see in table \autoref{tab:block} 0.53 \% of all vehicles get blocked. 
+Notable is that for cars this is almost nothing (not even 0.1\%) but for trucks it is larger, as many as 3\%.
+This can be explained very easily.
+When it is very busy at the fuel station all the lanes are full, or nearly full. 
+A truck needs a lot of space, while a car does not, and since the arrival rate of cars is much higher than of trucks it is likely that there will not be space for trucks when it is very busy.\\
+The last thing was that cars and trucks cannot be too long in the fuel station. 
+Cars have to be on the road again in 30 minutes on avarage and trucks in 45 minutes. As you can see in table \autoref{tab:throughput} this is indeed the case.
+
 \begin{table}
+	\begin{minipage}{.5\linewidth}
 	\centering
 	\begin{tabular}{|c|c|}
 		\hline
@@ -102,64 +121,22 @@ The solution we eventually have is shown in \autoref{tab:opt}.
 	\end{tabular}
 	\caption{Block rate percentage}
 	\label{tab:block}
-\end{table}
-
-\begin{table}
+	\end{minipage}%
+	\begin{minipage}{.5\linewidth}
 	\centering
 	\begin{tabular}{|c|c|}
 		\hline
+		\multicolumn{2}{|c|}{Throughput times} \\ \hline
 		Cars & 25m:31s \\ \hline
 		Trucks & 29m:16s \\ \hline
 	\end{tabular}
 	\caption{Average throughput time}
 	\label{tab:throughput}
+	\end{minipage}
 \end{table}
-
-The total cost of this schedule is 60,838.20 Eur, in comparison, the naive schedule for 30 days would cost 96,000 Eur.
-
 
 \subsection{Optimal Solution for Decreased Demands}
 Another question asked by Bill was how must he adapt the schedule such that in the future, when cars become more fuel efficient and the demand goes down, he still has a good schedule. 
 To simulate this we lowered the arrival amounts with 10, 20 and 30\% and  also the amount of fuel needid with the same amounts. 
 The way of getting this solution was different from from the way we got it for the current schedule.
-This is all explained in appendix TODO.
-
-\begin{table}
-	\centering
-	\begin{tabular}{c|c|c|c|c|c|c|}
-		\cline{2-7}
-		& \multicolumn{2}{c|}{-10\%} & \multicolumn{2}{c|}{-20\%} & \multicolumn{2}{c|}{-30\%} \\ \cline{2-7} 
-		& Hours     & Percentage     & Hours     & Percentage     & Hours     & Percentage     \\ \hline
-		\multicolumn{1}{|c|}{Scheduled hours} & 68.00     & 92.0\%         & 64.00     & 93.3\%         & 56.00     & 93.5\%         \\ \hline
-		\multicolumn{1}{|c|}{Extra hours}     & 5.93      & 8.0\%          & 4.63      & 6.7\%          & 3.92      & 6.5\%          \\ \hline
-		\multicolumn{1}{|c|}{Total}           & 73.93     & 100\%          & 68.63     & 100\%          & 59.92     & 100\%          \\ \hline
-	\end{tabular}
-	\caption{Average number of hours worked on a single day for reduced traffic}
-	\label{tab:hours}
-\end{table}
-
-
-\begin{table}
-	\centering
-	\begin{tabular}{l|l|l|l|}
-		\cline{2-4}
-		& -10\% & -20\% & -30\% \\ \hline
-		\multicolumn{1}{|l|}{All vehicles} & 1.8\% & 0.7\% & 0.8\% \\ \hline
-		\multicolumn{1}{|l|}{Cars}         & 0.6\% & 0.2\% & 0.5\% \\ \hline
-		\multicolumn{1}{|l|}{Trucks}       & 8.5\% & 3.9\% & 2.7\% \\ \hline
-	\end{tabular}
-	\caption{Block rate percentage for reduced traffic}
-	\label{tab:blockRed}
-\end{table}
-
-\begin{table}
-	\centering
-	\begin{tabular}{c|c|c|c|}
-		\cline{2-4}
-		\multicolumn{1}{l|}{}        & \multicolumn{1}{l|}{-10\%} & \multicolumn{1}{l|}{-20\%} & \multicolumn{1}{l|}{-30\%} \\ \hline
-		\multicolumn{1}{|c|}{Cars}   & 51m:04s                    & 39m:54s                    & 35m:36s                    \\ \hline
-		\multicolumn{1}{|c|}{Trucks} & 50m:20s                    & 40m:22s                    & 36m:19s                    \\ \hline
-	\end{tabular}
-	\caption{Average throughput for reduced traffic}
-	\label{tab:throughputDec}
-\end{table}
+This is all explained in appendix \autoref{app:demands}.

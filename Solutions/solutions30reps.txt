@@ -1,0 +1,9495 @@
+D:\Documents\GitHub\Business-Process-Simulation\Model\Attempt4.doe
+1/21/2015 7:12:14 PM
+  
+MinimizeCost:  60838.2019054764  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  60840.0263938634  Feasible
+A_S1:  3
+A_S10:  0
+A_S11:  3
+A_S12:  0
+A_S2:  1
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  60852.9873662706  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  60854.7586377301  Feasible
+A_S1:  0
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  4
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  0
+A_S7:  3
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  60865.9127684672  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  60870.5491563567  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  60904.7693436748  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  60934.2691007861  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  4
+A_S5:  0
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  61071.4386087147  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  61088.1059926088  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  2
+A_S2:  3
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  61305.8825282781  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  61344.8838085767  Feasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  62972.8555627923  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  62992.5049492528  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  63021.4971836113  Feasible
+A_S1:  3
+A_S10:  0
+A_S11:  3
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  63092.3995606423  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  63328.2494752021  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  1
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  63335.5788483697  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  63354.6067829193  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  1
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  63361.6473335506  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  63370.2048864705  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  1
+A_S2:  1
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  63378.5626403404  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  63379.6859916052  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  63383.9927114318  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  1
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  63404.2126560285  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  63412.7403761078  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  63424.3725875472  Feasible
+A_S1:  3
+A_S10:  1
+A_S11:  3
+A_S12:  0
+A_S2:  1
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  63426.9496894192  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  4
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  63430.5691061978  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  4
+A_S3:  0
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  63432.4057174806  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  63437.7410278407  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  63442.8542601706  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  3
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  63447.9965500976  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  63457.0878486159  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  1
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  63461.6912343142  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  63475.7852858115  Feasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  1
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  63493.081170833  Feasible
+A_S1:  0
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  4
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  1
+A_S7:  3
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  63504.1176755894  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  63518.0301980236  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  2
+A_S2:  3
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  63529.2474740517  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  63531.0503026353  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  63544.7836228989  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  63552.2329796684  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  63568.9009298982  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  3
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  63579.8345354867  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  3
+A_S3:  0
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  63621.934969359  Feasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  65763.096474186  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  65778.0277124367  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  65796.987369152  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  1
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  65798.9796343411  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  65821.749195864  Feasible
+A_S1:  1
+A_S10:  2
+A_S11:  1
+A_S12:  2
+A_S2:  2
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  65858.0747998143  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  65863.2722333536  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  65865.6878987162  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  65866.7358617555  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  65869.1480485308  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  65869.9517766777  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  65890.6209628993  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  65891.2780414894  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  65920.4164586752  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  65922.813809068  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  3
+A_S3:  0
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  65940.4760407036  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  65947.851651307  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  66019.6193834876  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  66060.2226186439  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66098.4133533033  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66101.4021542506  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  1
+A_S4:  3
+A_S5:  1
+A_S6:  3
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  66107.5039052072  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66109.0293280413  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66150.0610787664  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66161.9034949106  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  66170.6131961511  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66188.7875676189  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  3
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  66191.9983064392  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  66195.263559889  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  0
+A_S4:  3
+A_S5:  1
+A_S6:  3
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  66199.2889113219  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  2
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  66205.667263205  Feasible
+A_S1:  5
+A_S10:  3
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  4
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  66212.1207603566  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  5
+A_S2:  3
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  66217.5578529535  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  4
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66228.2936548621  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  66236.0167668024  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  3
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  66259.4989797829  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66264.0876630173  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  3
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66281.9069463532  Feasible
+A_S1:  4
+A_S10:  3
+A_S11:  2
+A_S12:  0
+A_S2:  1
+A_S3:  4
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  66283.0634130257  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  2
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  66285.9865733474  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  4
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  66305.0126408377  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66314.2218364293  Feasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  66351.666295273  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  2
+A_S3:  0
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  66372.1524664351  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  2
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  66377.0084015066  Feasible
+A_S1:  1
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  4
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  3
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  66425.311858599  Feasible
+A_S1:  3
+A_S10:  1
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  0
+A_S4:  4
+A_S5:  0
+A_S6:  3
+A_S7:  2
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  66512.4121743605  Feasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  2
+A_S5:  1
+A_S6:  3
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  68809.6708126001  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  68816.1376414579  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  68832.9491252007  Feasible
+A_S1:  1
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  68835.8186674281  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  68856.5875537576  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  68858.1276819664  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  68874.1623342114  Feasible
+A_S1:  1
+A_S10:  2
+A_S11:  3
+A_S12:  1
+A_S2:  2
+A_S3:  2
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  68893.0367771058  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  68895.2709039275  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  68912.8314522441  Feasible
+A_S1:  2
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  3
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  3
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  68917.8083209891  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  68922.9570327705  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  68937.6533969168  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  3
+A_S5:  0
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  68938.8932784176  Feasible
+A_S1:  1
+A_S10:  2
+A_S11:  1
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  68951.9131546923  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  2
+A_S12:  1
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  68974.0770149936  Feasible
+A_S1:  3
+A_S10:  0
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  3
+A_S7:  2
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  68977.9512765712  Feasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  1
+A_S7:  3
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  68981.6987460495  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  5
+A_S2:  3
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  68982.4893833606  Feasible
+A_S1:  3
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  4
+A_S7:  1
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  68995.7142109334  Feasible
+A_S1:  5
+A_S10:  3
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  69021.8939666498  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  69042.6481634098  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  69043.7731146223  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  69066.3507072041  Feasible
+A_S1:  2
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  3
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  69234.1735150775  Feasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  3
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  71583.94228605  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  71587.8617337995  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71591.553411094  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  3
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71597.0016945287  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  1
+A_S12:  4
+A_S2:  1
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  71606.3856367102  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71619.335779231  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  71622.2228597988  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  3
+A_S3:  1
+A_S4:  3
+A_S5:  1
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71623.5642254733  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  1
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  71633.1257922821  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  3
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71634.7793293313  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71637.5169977829  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  3
+A_S3:  1
+A_S4:  3
+A_S5:  1
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71638.8288139132  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  3
+A_S3:  0
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  71649.2974223451  Feasible
+A_S1:  2
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  3
+A_S7:  2
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  71649.9793779073  Feasible
+A_S1:  1
+A_S10:  2
+A_S11:  1
+A_S12:  4
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  1
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  71653.4878158794  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71658.6641696906  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  1
+A_S12:  1
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71675.3480306909  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71682.1411002319  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71682.8014943338  Feasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  4
+A_S2:  1
+A_S3:  3
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  71684.0371647056  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71694.2428225154  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71695.950605229  Feasible
+A_S1:  5
+A_S10:  3
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71705.1007936985  Feasible
+A_S1:  2
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  2
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71708.1918017968  Feasible
+A_S1:  1
+A_S10:  2
+A_S11:  3
+A_S12:  1
+A_S2:  4
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  71746.909478705  Feasible
+A_S1:  0
+A_S10:  2
+A_S11:  0
+A_S12:  5
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  71751.0255212364  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  71767.4454568955  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  71774.8150696334  Feasible
+A_S1:  2
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  71810.9945762205  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  71835.6666972565  Feasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  72005.7806045112  Feasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  72009.9665003861  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  3
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  74299.3791581053  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  1
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  3
+  
+MinimizeCost:  74317.7475007537  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  1
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  74321.9619420268  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  74324.2229403512  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  74325.793726068  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  1
+A_S12:  4
+A_S2:  2
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  0
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  74331.1887528427  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  74337.7075983783  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  74338.2477012285  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  1
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  74342.5779889483  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  74354.1237596465  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  74356.927297958  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  3
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  74358.346107702  Feasible
+A_S1:  1
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  74363.9136287763  Feasible
+A_S1:  2
+A_S10:  1
+A_S11:  3
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  1
+A_S7:  3
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  74370.9482058359  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  74378.3748087826  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  1
+A_S12:  4
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  74379.1070237065  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  1
+A_S12:  4
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  74384.7850338115  Feasible
+A_S1:  2
+A_S10:  0
+A_S11:  3
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  1
+A_S7:  4
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  74392.5353195753  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  74393.1808697737  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  4
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  74394.056432718  Feasible
+A_S1:  3
+A_S10:  1
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  74394.2697174636  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  74394.5535342387  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  74400.6854592184  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  74405.7273985213  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  74406.0593795377  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  74407.3462969757  Feasible
+A_S1:  4
+A_S10:  1
+A_S11:  4
+A_S12:  0
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  74414.7125629941  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  3
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  74416.1839078302  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  74428.5658523918  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  74432.524245149  Feasible
+A_S1:  0
+A_S10:  2
+A_S11:  2
+A_S12:  3
+A_S2:  4
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  74441.1135230899  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  74447.7768820835  Feasible
+A_S1:  1
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  4
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  74451.8267482211  Feasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  74452.3620490056  Feasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  74457.8137277797  Feasible
+A_S1:  2
+A_S10:  0
+A_S11:  3
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  74467.0611147862  Feasible
+A_S1:  1
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  4
+A_S3:  1
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  74471.133576803  Feasible
+A_S1:  0
+A_S10:  2
+A_S11:  0
+A_S12:  5
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  74475.9295593794  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  3
+  
+MinimizeCost:  74487.8945771267  Feasible
+A_S1:  2
+A_S10:  0
+A_S11:  3
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  74564.6017564578  Feasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  4
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  74775.8828880859  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  1
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  77049.2373907063  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  77058.1567344739  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  77060.1288037805  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  3
+  
+MinimizeCost:  77079.0325421986  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  77091.080648646  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  77097.0500496863  Feasible
+A_S1:  1
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  77104.9027449065  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  4
+A_S2:  4
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  77105.1630773538  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  77110.880056357  Feasible
+A_S1:  3
+A_S10:  0
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  77123.0385410535  Feasible
+A_S1:  3
+A_S10:  3
+A_S11:  1
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  77126.2760965975  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  77132.8364343545  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  5
+A_S3:  0
+A_S4:  4
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  77137.4587761825  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  77138.7243039692  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  77155.0071860364  Feasible
+A_S1:  0
+A_S10:  3
+A_S11:  1
+A_S12:  4
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  77159.914387923  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  1
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  3
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  77192.8085349643  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  79814.8742803874  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  79826.6456497792  Feasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  79843.7414495846  Feasible
+A_S1:  3
+A_S10:  1
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  79862.6195148683  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  79863.9808931372  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  1
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  79869.3945171392  Feasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  79874.6865172786  Feasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  5
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  82583.3491867681  Feasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  82588.4713523354  Feasible
+A_S1:  4
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  82605.8520217875  Feasible
+A_S1:  1
+A_S10:  4
+A_S11:  1
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  82606.2397402549  Feasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  82639.1147191304  Feasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  63078.289480025  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  63559.1650260891  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  63125.9218088485  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  1
+A_S7:  2
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  63014.8181662099  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  58174.3689594046  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  58187.9720941911  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  58144.3283558778  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  0
+A_S2:  1
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  58088.9201668213  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  60570.6641175102  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  0
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  68816.7294807774  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  1
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  60666.8575865042  Infeasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  58194.0349590453  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  63472.8670107566  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  3
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  61181.2717355018  Infeasible
+A_S1:  0
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  4
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  1
+A_S7:  3
+A_S8:  0
+A_S9:  3
+  
+MinimizeCost:  58242.6951087135  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  60940.372161631  Infeasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  4
+A_S3:  0
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  66601.6529554635  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  1
+A_S4:  3
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  60683.2116705662  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  60888.5563334249  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  58387.0386875565  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  4
+A_S5:  0
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  58316.6599811406  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  58366.6429447705  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  58736.1492736439  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  61295.9506540445  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  58351.9816075595  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  58071.1499362466  Infeasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  63447.746159968  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  55760.9268157082  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  58343.4274040888  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  2
+A_S12:  1
+A_S2:  2
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  66353.4510438626  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  3
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  3
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  55873.9438749409  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  55531.6586637302  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  58515.3106622052  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  4
+A_S5:  0
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  58064.2620391281  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  63412.8937274135  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  0
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  69026.9243030238  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  3
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  1
+A_S7:  3
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  58383.8577706141  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  3
+  
+MinimizeCost:  61211.3181039758  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  63486.0928345525  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  61678.8217185278  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  0
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  69161.3444241808  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  3
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  66344.850000457  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  3
+A_S12:  2
+A_S2:  3
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  3
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  58145.8451168304  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  69080.5245966529  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  63497.1580783185  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  58330.26502916  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  55985.6895596767  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  4
+A_S5:  0
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  55462.1027967868  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  69077.6607355073  Infeasible
+A_S1:  5
+A_S10:  3
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  63829.7309604519  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  3
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  2
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  55816.5908093282  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  69059.5311110204  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  4
+A_S4:  0
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  55467.8908872245  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  55860.1046010821  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  55773.6496469972  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  58465.5993087862  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  0
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  72182.3417842115  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  71652.1398194802  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  3
+A_S7:  2
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  68943.4313189765  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  4
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  74477.5924628596  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  61178.3796590638  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  3
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  2
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  63844.8957756388  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  3
+A_S12:  2
+A_S2:  3
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  2
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  63670.8951115586  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  69020.6112770907  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  2
+A_S12:  3
+A_S2:  4
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  71695.8038019519  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  4
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  58301.3435367547  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71756.5853289313  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  71674.2818602886  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  1
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  1
+A_S7:  4
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  74436.0712958336  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  1
+A_S7:  4
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  74437.5172445883  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  68923.4173975127  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  5
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  74455.332755373  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  4
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  63880.0026219706  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  60685.8206727587  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  2
+A_S6:  0
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  56152.8260790928  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  58158.4807759847  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66712.5677456969  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  3
+A_S7:  2
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  71751.0727156084  Infeasible
+A_S1:  4
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  1
+A_S3:  3
+A_S4:  2
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  68962.7218646199  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  3
+A_S7:  2
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  63499.3926017901  Infeasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  4
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  0
+  
+MinimizeCost:  55543.0333517783  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  1
+A_S12:  2
+A_S2:  1
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  55641.1469520982  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  66260.733519555  Infeasible
+A_S1:  3
+A_S10:  3
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  58510.1215954526  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  60842.3950219602  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  0
+A_S12:  2
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  55500.7631461239  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  55492.6204713411  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  58501.0073325074  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71712.7613910899  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  3
+A_S12:  0
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  58112.7164576862  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  0
+A_S12:  2
+A_S2:  2
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  66278.1957179091  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  1
+A_S3:  3
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  66209.62180731  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  66229.1003851894  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  55889.5264367399  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  58404.2278324367  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  58204.5489054569  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  2
+A_S2:  1
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71706.8272425452  Infeasible
+A_S1:  4
+A_S10:  3
+A_S11:  1
+A_S12:  0
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  58589.368849784  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  0
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71801.9323999021  Infeasible
+A_S1:  3
+A_S10:  3
+A_S11:  2
+A_S12:  1
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  60667.3442752077  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  71818.035965782  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  1
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  69104.9511690096  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  0
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  57932.2012229388  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  55726.7909668583  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  60886.2731594137  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  71701.9265033117  Infeasible
+A_S1:  5
+A_S10:  3
+A_S11:  1
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  74540.4148367758  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  71728.4177374361  Infeasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  63658.9057574903  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  0
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  3
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  58403.2115095915  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  69143.8372645261  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  3
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  66229.5712948089  Infeasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  2
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  58824.0051808027  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  53547.9133437045  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  66365.1130677191  Infeasible
+A_S1:  3
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  3
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  60901.6891110825  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  1
+A_S5:  1
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  58500.3636198034  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  0
+A_S2:  1
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  55472.2521113424  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  71776.4674561261  Infeasible
+A_S1:  4
+A_S10:  2
+A_S11:  3
+A_S12:  0
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  63712.8383303529  Infeasible
+A_S1:  4
+A_S10:  2
+A_S11:  1
+A_S12:  0
+A_S2:  1
+A_S3:  3
+A_S4:  1
+A_S5:  3
+A_S6:  1
+A_S7:  2
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  74442.98672946  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  68978.3589321451  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  4
+A_S7:  1
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  53395.5945068258  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  2
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  55999.3985879691  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  66150.4541304361  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  60869.2510830793  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  1
+A_S2:  4
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  60611.7358459035  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  58021.1674988626  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  74394.8496895794  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  61123.5445916961  Infeasible
+A_S1:  4
+A_S10:  3
+A_S11:  2
+A_S12:  0
+A_S2:  1
+A_S3:  3
+A_S4:  0
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  60758.9677716851  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  63423.5364529807  Infeasible
+A_S1:  3
+A_S10:  0
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  61824.3377142767  Infeasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  1
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  58987.7896372907  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  1
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  55530.8202939787  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  55745.8574406019  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  53742.3403404894  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  53660.0863330253  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  74401.7287143652  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  66275.4746696527  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  1
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  58800.2117571095  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  0
+A_S12:  2
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  71704.4474298963  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  52987.0369001285  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  60696.1262251949  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  0
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  66236.1292805461  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  1
+A_S2:  3
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  0
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  68987.2286947034  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  68960.2770049961  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  55375.470818436  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  0
+A_S12:  2
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71711.7186403442  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  4
+A_S12:  1
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  68944.9844874941  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  4
+  
+MinimizeCost:  71719.6654802793  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  4
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  68944.9875553539  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  4
+A_S12:  0
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  66235.004682091  Infeasible
+A_S1:  3
+A_S10:  0
+A_S11:  3
+A_S12:  2
+A_S2:  1
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  63476.2782572703  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  2
+A_S3:  2
+A_S4:  2
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  55286.606824781  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  69011.1653288567  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  4
+A_S2:  1
+A_S3:  3
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  71717.1140815506  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  3
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  71773.8155971554  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  0
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  71686.014109123  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  63854.2387322318  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  1
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  72439.513533013  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  3
+A_S5:  0
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  71778.1899230969  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  66264.3556115875  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  3
+A_S2:  1
+A_S3:  3
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  66835.1261306241  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  69045.939328744  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  71753.180885871  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  55541.5193615376  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  56147.4345076053  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  0
+A_S6:  4
+A_S7:  1
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  60922.4885431045  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  58363.3054796189  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  53234.9838473851  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  58360.228490814  Infeasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  60835.9094391268  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  68907.929206569  Infeasible
+A_S1:  4
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  1
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  71962.2452113593  Infeasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  69204.9087077194  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  58829.7150891136  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  63424.4270469049  Infeasible
+A_S1:  4
+A_S10:  0
+A_S11:  4
+A_S12:  0
+A_S2:  0
+A_S3:  3
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  71944.1983309287  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  1
+A_S12:  4
+A_S2:  1
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  63432.8545269109  Infeasible
+A_S1:  4
+A_S10:  0
+A_S11:  4
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  58074.89833173  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  63527.9563899448  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  4
+A_S3:  1
+A_S4:  1
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  68911.9789475865  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  55425.1545959209  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  71756.1917168432  Infeasible
+A_S1:  5
+A_S10:  4
+A_S11:  1
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  63412.0989188024  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  3
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  2
+A_S9:  0
+  
+MinimizeCost:  71714.2656900203  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  4
+A_S3:  0
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  66552.8919432771  Infeasible
+A_S1:  4
+A_S10:  3
+A_S11:  0
+A_S12:  1
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  64197.2571927655  Infeasible
+A_S1:  4
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  1
+A_S3:  2
+A_S4:  3
+A_S5:  0
+A_S6:  1
+A_S7:  3
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  55846.0984523956  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  4
+A_S5:  0
+A_S6:  1
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  55374.3347358637  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  71759.3988118751  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  71709.9823566466  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  0
+A_S6:  4
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71777.1543992499  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  5
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  58617.039229146  Infeasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  2
+A_S2:  1
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  55945.249103622  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  1
+A_S4:  2
+A_S5:  1
+A_S6:  2
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  57926.2752402821  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  5
+A_S2:  3
+A_S3:  1
+A_S4:  3
+A_S5:  0
+A_S6:  3
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  55766.6418296177  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  61322.4281956304  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  3
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  58678.3407943766  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  2
+A_S2:  1
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  61509.0742255351  Infeasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  66369.8219241968  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  2
+A_S12:  1
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  69835.321247999  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  1
+A_S7:  4
+A_S8:  0
+A_S9:  3
+  
+MinimizeCost:  69236.5989008528  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  72593.4833961694  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  71658.992383429  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  1
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  69008.9848593007  Infeasible
+A_S1:  2
+A_S10:  4
+A_S11:  1
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  4
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  58844.8294150226  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  0
+A_S7:  3
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  66767.1639371244  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  5
+A_S2:  4
+A_S3:  0
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  72525.8112630185  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  1
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  74409.6029340407  Infeasible
+A_S1:  4
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  72591.8025666427  Infeasible
+A_S1:  3
+A_S10:  1
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  71675.1204929067  Infeasible
+A_S1:  4
+A_S10:  1
+A_S11:  4
+A_S12:  0
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  53278.4692285669  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  0
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  53266.5495877692  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  62946.6631465964  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  1
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  62340.9790952716  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  1
+A_S2:  4
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  2
+A_S7:  2
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  64307.7856481293  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  2
+A_S12:  0
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  0
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  69338.6471796969  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  1
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  72045.7676601563  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  71704.6811735407  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  4
+A_S3:  1
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  71778.804405604  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  1
+A_S12:  4
+A_S2:  3
+A_S3:  2
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  68976.576182446  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  54424.162293908  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  2
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71843.1807735342  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  55743.9594601374  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  0
+A_S6:  4
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  69095.3202452584  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  1
+A_S6:  4
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  69084.6407398181  Infeasible
+A_S1:  5
+A_S10:  3
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  66220.4234092505  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  2
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  52763.1152358941  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71616.6378463072  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  1
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  54527.5594286488  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  56160.7815644407  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  0
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  69073.5497293732  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  1
+A_S12:  4
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  1
+A_S6:  4
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  50795.6625017175  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  53120.0813686702  Infeasible
+A_S1:  0
+A_S10:  2
+A_S11:  0
+A_S12:  2
+A_S2:  2
+A_S3:  2
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  2
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  71828.0208389661  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  58002.1277000315  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  4
+A_S4:  0
+A_S5:  4
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  66211.9355637051  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  4
+A_S7:  1
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  53021.4331998496  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  64326.8291359561  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  1
+A_S6:  0
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  68906.7353526669  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  1
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  68882.8161722136  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  0
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  69069.6515377581  Infeasible
+A_S1:  5
+A_S10:  5
+A_S11:  0
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  52782.8993370033  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  1
+A_S4:  4
+A_S5:  0
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  55402.7491995217  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  69063.5125944655  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  0
+A_S7:  2
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  66667.9574575291  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  1
+A_S12:  3
+A_S2:  3
+A_S3:  1
+A_S4:  4
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  61536.5709927691  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  0
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  69066.440589525  Infeasible
+A_S1:  3
+A_S10:  0
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  64264.4294633459  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  1
+A_S3:  4
+A_S4:  0
+A_S5:  4
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  61492.131353477  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  1
+A_S3:  4
+A_S4:  0
+A_S5:  4
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  61568.7779117016  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  2
+A_S12:  2
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  3
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  52994.6099553174  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  2
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  63864.7655999891  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  2
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  57839.2930878988  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  0
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  58177.1608491871  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  2
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  0
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  64495.3920448846  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  2
+A_S12:  0
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  50720.1298953973  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  0
+A_S4:  3
+A_S5:  1
+A_S6:  2
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  53630.487353028  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  71745.1531365724  Infeasible
+A_S1:  5
+A_S10:  4
+A_S11:  1
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  71647.1109059187  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  71682.4339539687  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  58314.0396065189  Infeasible
+A_S1:  0
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  1
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  1
+A_S7:  2
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  63548.8719260802  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  1
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  54182.4806183714  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  66325.3267178991  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  3
+A_S4:  1
+A_S5:  4
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  63617.7519042789  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  4
+A_S2:  4
+A_S3:  1
+A_S4:  1
+A_S5:  1
+A_S6:  4
+A_S7:  0
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  63873.2642906907  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  3
+A_S4:  1
+A_S5:  4
+A_S6:  0
+A_S7:  4
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  66320.6059360104  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  3
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  63796.4822785292  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  1
+A_S8:  0
+A_S9:  3
+  
+MinimizeCost:  72554.5841443774  Infeasible
+A_S1:  4
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  55989.3000048341  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  3
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  63637.7559496478  Infeasible
+A_S1:  0
+A_S10:  2
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  62281.0388416646  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  4
+A_S12:  0
+A_S2:  4
+A_S3:  1
+A_S4:  2
+A_S5:  0
+A_S6:  1
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  61459.8303250444  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  3
+A_S2:  3
+A_S3:  1
+A_S4:  3
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  58206.7546843296  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  0
+A_S4:  2
+A_S5:  1
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  56872.689917779  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  68978.1690140367  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  54089.988894749  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  1
+A_S6:  3
+A_S7:  1
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  70128.3048458291  Infeasible
+A_S1:  3
+A_S10:  0
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  0
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  53244.7387937401  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  69082.1080485026  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  51639.5229365226  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  0
+A_S4:  2
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  60818.8920038264  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  62451.6962391249  Infeasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  0
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  60717.3980305547  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  0
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  1
+A_S7:  3
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  60772.3328533515  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  1
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  69084.8114968043  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  0
+A_S12:  5
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  66389.2215235593  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  0
+A_S12:  5
+A_S2:  1
+A_S3:  3
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  63630.5456199766  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  4
+A_S2:  0
+A_S3:  3
+A_S4:  1
+A_S5:  4
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  61182.5091034236  Infeasible
+A_S1:  5
+A_S10:  3
+A_S11:  0
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  71592.4560973411  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  65131.3703411014  Infeasible
+A_S1:  4
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  1
+A_S3:  4
+A_S4:  0
+A_S5:  4
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  53023.1367046709  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  1
+A_S6:  2
+A_S7:  3
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  52729.0139765385  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  64086.0370535394  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  60930.1815146326  Infeasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  4
+A_S6:  0
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  70748.0512484602  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  3
+A_S3:  2
+A_S4:  0
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  50473.8214847603  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  0
+A_S4:  4
+A_S5:  0
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  53063.1378739929  Infeasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  1
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  0
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  60770.1751307884  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  4
+A_S3:  1
+A_S4:  0
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  53229.9855472065  Infeasible
+A_S1:  1
+A_S10:  5
+A_S11:  0
+A_S12:  1
+A_S2:  0
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  60811.1375619531  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  1
+A_S12:  0
+A_S2:  3
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  63618.3408064617  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  1
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  60894.8571731146  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  4
+A_S2:  1
+A_S3:  4
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  53399.9468479508  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  1
+A_S2:  0
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  53452.6035293069  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  55390.9143327184  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  2
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  2
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  69133.2202016146  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  60861.823147421  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  0
+A_S2:  4
+A_S3:  1
+A_S4:  3
+A_S5:  2
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  61939.4912451414  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  1
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  51188.1839278528  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  0
+A_S12:  1
+A_S2:  0
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  1
+  
+MinimizeCost:  53313.238758944  Infeasible
+A_S1:  4
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  0
+A_S3:  2
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  50634.009949505  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  68985.9874061454  Infeasible
+A_S1:  4
+A_S10:  1
+A_S11:  4
+A_S12:  0
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  60824.4856242739  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  1
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  69054.4442868545  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  51368.4406718089  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  1
+A_S2:  0
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  61713.2323076438  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  0
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  51048.9918502544  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  71674.3959333313  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  69133.8055273276  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  59034.599160962  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  0
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  4
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  64815.3547444974  Infeasible
+A_S1:  4
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  69097.5124495518  Infeasible
+A_S1:  5
+A_S10:  5
+A_S11:  0
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  54505.4596123856  Infeasible
+A_S1:  4
+A_S10:  3
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  1
+A_S7:  1
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  60771.275677006  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  1
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  57961.0455226535  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  50720.7472450262  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  69045.774860264  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  49536.3331290348  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  2
+A_S2:  3
+A_S3:  2
+A_S4:  0
+A_S5:  3
+A_S6:  0
+A_S7:  1
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  51218.6120634343  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  2
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  58121.7866356994  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  0
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  0
+A_S7:  4
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  63568.8973659494  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  0
+A_S12:  3
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  58270.9672842761  Infeasible
+A_S1:  4
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  0
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  0
+A_S9:  4
+  
+MinimizeCost:  60870.5423544729  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  0
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  58529.3970460612  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  0
+A_S2:  4
+A_S3:  1
+A_S4:  4
+A_S5:  1
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  4
+  
+MinimizeCost:  62176.2647464869  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  0
+A_S12:  2
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  69099.468721761  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  5
+A_S3:  0
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  48760.1394724832  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  2
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  62754.5756654246  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  0
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  56040.6267164755  Infeasible
+A_S1:  2
+A_S10:  4
+A_S11:  1
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  1
+A_S5:  1
+A_S6:  4
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  52436.334139222  Infeasible
+A_S1:  1
+A_S10:  3
+A_S11:  1
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  60689.3433769473  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  69165.4926127756  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  53127.7308963248  Infeasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  2
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  3
+A_S6:  2
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  62398.7688654552  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  2
+A_S3:  0
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  60753.8462255602  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  60873.3443617837  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  1
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  53364.7212262214  Infeasible
+A_S1:  2
+A_S10:  4
+A_S11:  0
+A_S12:  3
+A_S2:  0
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  4
+A_S9:  0
+  
+MinimizeCost:  60930.026614955  Infeasible
+A_S1:  0
+A_S10:  2
+A_S11:  0
+A_S12:  5
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  0
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  58852.0323679103  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  1
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  3
+A_S6:  2
+A_S7:  0
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  51100.8792018065  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  0
+A_S12:  3
+A_S2:  2
+A_S3:  1
+A_S4:  2
+A_S5:  2
+A_S6:  2
+A_S7:  0
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  69125.1965085345  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  60925.8478011102  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  0
+A_S8:  2
+A_S9:  0
+  
+MinimizeCost:  69156.5066076576  Infeasible
+A_S1:  5
+A_S10:  5
+A_S11:  0
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  0
+  
+MinimizeCost:  65461.2065413831  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  69214.0918437147  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  0
+  
+MinimizeCost:  55195.4347845736  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  2
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  60843.622493722  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  5
+A_S3:  0
+A_S4:  0
+A_S5:  2
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  47936.5762672972  Infeasible
+A_S1:  0
+A_S10:  4
+A_S11:  0
+A_S12:  4
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  2
+A_S6:  1
+A_S7:  1
+A_S8:  2
+A_S9:  1
+  
+MinimizeCost:  54502.7385072157  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  2
+A_S7:  0
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  60770.8467087937  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  57158.2054391758  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  3
+A_S8:  2
+A_S9:  0
+  
+MinimizeCost:  56044.5039952935  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  2
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  2
+A_S8:  0
+A_S9:  0
+  
+MinimizeCost:  69181.0733940145  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  0
+  
+MinimizeCost:  49606.0525343164  Infeasible
+A_S1:  4
+A_S10:  2
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  2
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  69092.2990260551  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  53852.6079521826  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  61490.9610429536  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  2
+A_S12:  3
+A_S2:  0
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  50536.9347120734  Infeasible
+A_S1:  2
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  0
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  0
+A_S7:  2
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  53559.6165889253  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  2
+A_S9:  2
+  
+MinimizeCost:  58197.7931350179  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  5
+A_S3:  0
+A_S4:  4
+A_S5:  1
+A_S6:  0
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  45198.1021856295  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  49358.9146302172  Infeasible
+A_S1:  4
+A_S10:  2
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  2
+A_S6:  1
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  58028.3080247085  Infeasible
+A_S1:  4
+A_S10:  1
+A_S11:  4
+A_S12:  1
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  0
+A_S6:  3
+A_S7:  1
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  53384.59515668  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  2
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  53090.1432789847  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  1
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  58048.8632729852  Infeasible
+A_S1:  0
+A_S10:  5
+A_S11:  0
+A_S12:  5
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  4
+A_S6:  0
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  52673.8508038342  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  0
+A_S5:  0
+A_S6:  2
+A_S7:  0
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  62665.933298156  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  2
+A_S7:  3
+A_S8:  2
+A_S9:  0
+  
+MinimizeCost:  60949.8471712007  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  0
+A_S6:  2
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  54751.1871974567  Infeasible
+A_S1:  1
+A_S10:  4
+A_S11:  1
+A_S12:  4
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  3
+A_S6:  0
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  53428.0040158505  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  59901.1288889204  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  3
+A_S8:  2
+A_S9:  0
+  
+MinimizeCost:  55361.6116364503  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  3
+A_S12:  2
+A_S2:  2
+A_S3:  1
+A_S4:  0
+A_S5:  1
+A_S6:  0
+A_S7:  1
+A_S8:  4
+A_S9:  1
+  
+MinimizeCost:  52565.6171000418  Infeasible
+A_S1:  2
+A_S10:  5
+A_S11:  0
+A_S12:  0
+A_S2:  1
+A_S3:  4
+A_S4:  1
+A_S5:  4
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  53097.7372497118  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  58309.2450422006  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  0
+A_S12:  5
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  45847.103780629  Infeasible
+A_S1:  1
+A_S10:  2
+A_S11:  0
+A_S12:  4
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  2
+A_S6:  1
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  63055.7378131881  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  0
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  51179.9285897039  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  1
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  51915.9978502075  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  2
+A_S7:  0
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  42478.0418956958  Infeasible
+A_S1:  0
+A_S10:  3
+A_S11:  0
+A_S12:  3
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  2
+A_S9:  0
+  
+MinimizeCost:  57016.5593061125  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  5
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  0
+A_S7:  2
+A_S8:  3
+A_S9:  0
+  
+MinimizeCost:  52504.0548324488  Infeasible
+A_S1:  2
+A_S10:  2
+A_S11:  0
+A_S12:  3
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  2
+A_S6:  0
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  49788.7262017699  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  47245.6856495641  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  1
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  50360.8641163903  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  55390.8399970674  Infeasible
+A_S1:  3
+A_S10:  2
+A_S11:  0
+A_S12:  2
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  2
+A_S6:  0
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  54040.2576202209  Infeasible
+A_S1:  2
+A_S10:  5
+A_S11:  0
+A_S12:  0
+A_S2:  2
+A_S3:  0
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  0
+  
+MinimizeCost:  50423.7306210736  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  1
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  55637.5721485804  Infeasible
+A_S1:  5
+A_S10:  5
+A_S11:  0
+A_S12:  0
+A_S2:  0
+A_S3:  0
+A_S4:  2
+A_S5:  3
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  0
+  
+MinimizeCost:  58245.0463799658  Infeasible
+A_S1:  5
+A_S10:  5
+A_S11:  0
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  0
+  
+MinimizeCost:  39791.9874929275  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  1
+A_S8:  1
+A_S9:  3
+  
+MinimizeCost:  46892.2564518476  Infeasible
+A_S1:  3
+A_S10:  1
+A_S11:  0
+A_S12:  2
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  2
+A_S6:  0
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  44133.4032395568  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  0
+A_S12:  3
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  2
+A_S6:  0
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  45484.6031791898  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  0
+A_S12:  5
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  2
+A_S6:  1
+A_S7:  0
+A_S8:  3
+A_S9:  2
+  
+MinimizeCost:  49815.6573184112  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  0
+A_S2:  4
+A_S3:  1
+A_S4:  0
+A_S5:  1
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  50703.4542232943  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  5
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  1
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  51742.6929442202  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  2
+A_S12:  0
+A_S2:  5
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  48386.5398946518  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  49810.8277618217  Infeasible
+A_S1:  4
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  0
+A_S3:  0
+A_S4:  2
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  49731.9660449332  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  1
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  47012.6218836621  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  2
+A_S3:  3
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  38864.2319428841  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  3
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  1
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  47638.2560538167  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  38674.5367655349  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  3
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  41613.4678354651  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  4
+A_S12:  0
+A_S2:  0
+A_S3:  2
+A_S4:  0
+A_S5:  2
+A_S6:  3
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  41166.4448057025  Infeasible
+A_S1:  3
+A_S10:  0
+A_S11:  0
+A_S12:  2
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  2
+A_S6:  0
+A_S7:  1
+A_S8:  1
+A_S9:  4
+  
+MinimizeCost:  48188.3762233681  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  2
+A_S3:  3
+A_S4:  0
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  0
+A_S9:  2
+  
+MinimizeCost:  49604.6091343849  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  1
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  41831.5372703128  Infeasible
+A_S1:  3
+A_S10:  0
+A_S11:  0
+A_S12:  2
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  2
+A_S6:  0
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  58061.5136122938  Infeasible
+A_S1:  4
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  2
+A_S9:  0
+  
+MinimizeCost:  49895.4844752693  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  5
+A_S2:  5
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  42241.6758905028  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  0
+A_S12:  3
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  2
+A_S6:  0
+A_S7:  0
+A_S8:  2
+A_S9:  3
+  
+MinimizeCost:  49829.7464129857  Infeasible
+A_S1:  4
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  38612.2998726416  Infeasible
+A_S1:  3
+A_S10:  1
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  1
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  47058.9259683482  Infeasible
+A_S1:  5
+A_S10:  2
+A_S11:  0
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  5
+A_S6:  0
+A_S7:  2
+A_S8:  0
+A_S9:  0
+  
+MinimizeCost:  36818.7890307653  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  1
+A_S8:  1
+A_S9:  2
+  
+MinimizeCost:  36647.2949717136  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  2
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  1
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  36557.9495951243  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  2
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  43938.6097276589  Infeasible
+A_S1:  2
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  0
+A_S7:  2
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  55635.0747405673  Infeasible
+A_S1:  5
+A_S10:  5
+A_S11:  0
+A_S12:  0
+A_S2:  0
+A_S3:  0
+A_S4:  5
+A_S5:  0
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  0
+  
+MinimizeCost:  47296.5838845145  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  0
+A_S6:  5
+A_S7:  0
+A_S8:  0
+A_S9:  5
+  
+MinimizeCost:  52998.4351010165  Infeasible
+A_S1:  5
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  0
+A_S3:  0
+A_S4:  2
+A_S5:  0
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  36133.0994710969  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  1
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  44889.8987277816  Infeasible
+A_S1:  2
+A_S10:  1
+A_S11:  2
+A_S12:  3
+A_S2:  3
+A_S3:  2
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  47271.6351265459  Infeasible
+A_S1:  0
+A_S10:  0
+A_S11:  5
+A_S12:  0
+A_S2:  5
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  5
+A_S9:  0
+  
+MinimizeCost:  33068.0542159245  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  1
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  38853.1446807004  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  0
+A_S2:  0
+A_S3:  5
+A_S4:  0
+A_S5:  1
+A_S6:  0
+A_S7:  5
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  31490.8502646026  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  1
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  22822.6910287228  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  3
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  1
+A_S6:  0
+A_S7:  1
+A_S8:  0
+A_S9:  1
+  
+MinimizeCost:  20421.4958831159  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  1
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  20343.1413146751  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  2
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  20439.6634783427  Infeasible
+A_S1:  0
+A_S10:  2
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  20486.0223227308  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  1
+  
+MinimizeCost:  20361.9160629319  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  1
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  20394.3014895358  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  1
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  20264.4936213001  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  1
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  20265.2370983273  Infeasible
+A_S1:  1
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  20478.1858492328  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  2
+A_S9:  0
+  
+MinimizeCost:  20328.6024176146  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  2
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  20478.1804465848  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  2
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  20221.3472057376  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  2
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  16583.0260200621  Infeasible
+A_S1:  0
+A_S10:  1
+A_S11:  0
+A_S12:  1
+A_S2:  1
+A_S3:  0
+A_S4:  1
+A_S5:  0
+A_S6:  1
+A_S7:  0
+A_S8:  1
+A_S9:  0
+  
+MinimizeCost:  16565.4043562459  Infeasible
+A_S1:  1
+A_S10:  0
+A_S11:  1
+A_S12:  0
+A_S2:  0
+A_S3:  1
+A_S4:  0
+A_S5:  1
+A_S6:  0
+A_S7:  1
+A_S8:  0
+A_S9:  1
+  

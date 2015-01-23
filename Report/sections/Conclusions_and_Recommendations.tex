@@ -1,1 +1,19 @@
 \section{Conclusions and Recommendations}
+The question to be answered was what cashier schedule for the fuel station would maximize the profit, while meeting the following requirements:
+\begin{enumerate}
+	\item Cars (with  trailers) typically spend at most 30 minutes from arrival to departure.
+	\item Trucks typically spend at most 45 minutes from arrival to departure.
+	\item At most 1$\%$ of the arriving vehicles will be blocked.
+\end{enumerate}
+Furthermore, Bill asked to find a schedule for when the demands would decrease (due to cars becoming more fuel efficient).
+
+In section \ref{sec:simulationresults} we described the results of the simulations done with OptQuest. The optimal solution has 21 cashiers working a shift, which costs \EUR{2242,50} a day, which is a 25$\%$ improvement with respect to a schedule where 5 cashiers would be working at all times.
+
+With this optimal solution, the requirements are still fulfilled:
+\begin{enumerate}
+	\item Cars spend about 25 minutes on average from arrival to departure.
+	\item Trucks spend about 29 minutes on average from arrival to departure.
+	\item 0.53$\%$ of all vehicles are blocked, which is below the threshold of 1$\%$.
+\end{enumerate}
+
+Regarding the schedule for decreased demands, we tested the required schedules for 10$\%$, 20$\%$ and 30$\%$ less arrivals. With 10$\%$ less arrivals we required a schedule with 73.93 hours which costs \EUR{1848,25}. With 20$\%$ less arrivals the cost would be \EUR{1715,75} and with 30$\%$ \EUR{1498}. With these results, the block rate would only be violated 

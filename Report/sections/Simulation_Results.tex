@@ -38,12 +38,15 @@ The solution we eventually have is shown in \autoref{tab:opt}.\\
 
 \begin{figure}
 	\centering
+
+	\renewcommand{\arraystretch}{0.6} % this reduces the vertical spacing between rows
+	
 \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
 	\hline
 	0:00 & 2:00 & 4:00 & 6:00 & 8:00 & 10:00 & 12:00 & 14:00 & 16:00 & 18:00 & 20:00 & 22:00  \\
 	\hline
 	\hline
-	\cc & \cc & & & & & & & & & & \\ \hline
+	\cc & \cc & & & & & & & & & & \\ \hline 
 	& \cc & \cc & & & & & & & & & \\ \hline
 	& \cc & \cc & & & & & & & & & \\ \hline
 	& & \cc & \cc & & & & & & & & \\ \hline
@@ -69,7 +72,7 @@ The solution we eventually have is shown in \autoref{tab:opt}.\\
 	4 & 3 & 3 & 4 & 4 & 3 & 3 & 4 & 4 & 4 & 3 & 3\\
 	\hline
 \end{tabular}
-\caption{The schedule}
+\caption{The schedule. Each row represents one of 21 shifts.}
 \label{fig:schedule}
 \end{figure}
 
@@ -87,6 +90,18 @@ The solution we eventually have is shown in \autoref{tab:opt}.\\
 \end{tabular}
 \caption{Average number of hours worked on a single day}
 \label{tab:hours}
+\end{table}
+
+\begin{table}
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline
+		All Vehicles & 0.53\% \\ \hline
+		Cars & 0.034 \% \\ \hline
+		Trucks & 3.36\% \\ \hline
+	\end{tabular}
+	\caption{Block rate percentage}
+	\label{tab:block}
 \end{table}
 
 The total cost of this schedule is 60,838.20 Eur, in comparison, the naive schedule for 30 days would cost 96,000 Eur.

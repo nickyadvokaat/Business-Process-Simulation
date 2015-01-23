@@ -1,9 +1,18 @@
 \section{Output Analysis}
 \subsection{Correlation analysis}
+We have not been able to create correlograms.
+Correlation analysis by creating correlograms and looking at statistics and (the absence of) repetitive patterns to determine that replications were uncorrelated failed.
+Therefore, we do not know if our replications are properly uncorrelated.
+ 
+We did take other measures to limit the possibilities of correlation.
 Between each of the replications, the system and statistics were (re)initialized.
+This is not enough, indicated by the Arena generated .out file, which contains a large number of ``(Insuf)" fields for the half-widths in stead of accurate values.
+In addition, also several ``(Corr)" fields can be found in the file.
+It is uncertain if our replications are properly uncorrelated.
 
-blabla .dat files??????????????? blabla correlellollellollullogram blabla no patterns blabla no correlation blabla everybody happy
-
+The point of correlation analysis is to find the right number of replications to simulate with.
+As we have not found a proper number by doing the usual correlation analysis, the simulation results may be affected.
+This is worth considering when reviewing the validity of the results.
 
 \subsection{Sensitivity analysis}
 \subsubsection{Number of cashiers}

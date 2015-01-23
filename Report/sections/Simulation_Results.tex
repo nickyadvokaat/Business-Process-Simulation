@@ -1,13 +1,24 @@
 \section{Simulation Results}
-The schedule found is shown in \autoref{tab:opt} so 22 shifts.
-This corresponds to about 18 hours of opening time per lane.
+In this section we will look at the results of the simulatios done with OptQuest as described in section 7. 
+The simulations consisted of four different rounds. 
+In the first round we did about 10,000 simulations of 1 replication. 
+This took quite some time to finish (about a day).
+As we noted between these results we saw that the best solution was a simulation between the 200 and 300.
+So after that we did again about 300 solutions with 7 replications instead of 1.
+This gave us only a little amount of feasible solutions. 
+These solutions were again simulated only now with 30 replications for each simulation.
+This gave us a solution which was not bad at all, but it was not optimal as we have shown in section 8.
+For the last part we tried to adapt the solution OptQuest gave us manually.
+This lead to a better solution, because we could decrease the number of cashiers for Shift 1, with 1.
+The solution we eventually have is shown in \autoref{tab:opt}.\\
 
+\subsection{Optimal Solution}
 \begin{table}
 	\centering
 	\caption{optimal solution}
 	\begin{tabular}{l | l}
 		Shift number & Number of cashiers in this shift\\
-		A\_S1 & 2 \\
+		A\_S1 & 1 \\
 		A\_S2 & 2 \\
 		A\_S3 & 1 \\
 		A\_S4 & 3 \\
@@ -80,4 +91,5 @@ This corresponds to about 18 hours of opening time per lane.
 
 The total cost of this schedule is 60,838.20 Eur, in comparison, the naive schedule for 30 days would cost 96,000 Eur.
 
-blabla other statistics
+
+\subsection{Optimal Solution for Decreased Demands}

@@ -81,7 +81,7 @@ This means for each day there are 21 cashiers scheduled, which is much better th
 \end{figure}
 
 The total cost of the solution is \EUR{2242,50} euro, this is \EUR{2100} euro for cashiers working their shift and \EUR{142,50} euro for cashiers working overtime (restocking or continuing their shift until the lanes in front of their checkout are empty). 
-This is a lot less than the \EUR{3000} a day the naive schedule would have costed.
+This is a lot less than the \EUR{3000} a day the naive schedule would cost.
 This is all shown in table \autoref{tab:costs}.
 
 \begin{table}[h!]
@@ -100,15 +100,15 @@ This is all shown in table \autoref{tab:costs}.
 \label{tab:costs}
 \end{table}
 
-There were also other demands of Bill regarding customer satisfaction. 
+There were also other demands made by Bill regarding customer satisfaction. 
 The first was that the total number of vehicles that are blocked and thus cannot enter the fuel station, can not be higher than 1\%.
-As you can see in table \autoref{tab:block} 0.53 \% of all vehicles get blocked. 
-Notable is that for cars this is almost nothing (not even 0.1\%) but for trucks it is larger, as many as 3\%.
+As you can see in table \autoref{tab:block} 0.53 \% of all vehicles gets blocked. 
+Notable is that for cars this is very low (not even 0.1\%) but for trucks it is higher, as much as 3 \% is blocked\%.
 This can be explained very easily.
 When it is very busy at the fuel station all the lanes are full, or nearly full. 
 A truck needs a lot of space, while a car does not, and since the arrival rate of cars is much higher than of trucks it is likely that there will not be space for trucks when it is very busy.\\
-The last thing was that cars and trucks cannot be too long in the fuel station. 
-Cars have to be on the road again in 30 minutes on avarage and trucks in 45 minutes. As you can see in table \autoref{tab:throughput} this is indeed the case.
+The last requirement was that cars and trucks cannot be in the fuel station for too long. 
+Cars have to be on the road again in 30 minutes on avarage and trucks in 45 minutes. As shown in table \autoref{tab:throughput} this demand is satisfied.
 
 \begin{table}
 	\begin{minipage}{.5\linewidth}
@@ -136,7 +136,7 @@ Cars have to be on the road again in 30 minutes on avarage and trucks in 45 minu
 \end{table}
 
 \subsection{Optimal Solution for Decreased Demands}
-Another question asked by Bill was how must he adapt the schedule such that in the future, when cars become more fuel efficient and the demand goes down, he still has a good schedule. 
-To simulate this we lowered the arrival amounts with 10, 20 and 30\% and  also the amount of fuel needid with the same amounts. 
-The way of getting this solution was different from from the way we got it for the current schedule.
+Another question asked by Bill was how to adapt the schedule such that in the future, when cars become more fuel efficient and the demand goes down, he still has a good schedule. 
+To simulate this we lowered the arrival amounts with 10, 20, and 30\%. We also lowerd the amount of fuel pumped by the same percentages. 
+The way of getting to this solution was different than how we got it for the current schedule.
 This is all explained in appendix \autoref{app:demands}.

@@ -1,13 +1,24 @@
 \section{Simulation Results}
-The schedule found is shown in \autoref{tab:opt} so 22 shifts.
-This corresponds to about 18 hours of opening time per lane.
+In this section we will look at the results of the simulatios done with OptQuest as described in section 7. 
+The simulations consisted of four different rounds. 
+In the first round we did about 10,000 simulations of 1 replication. 
+This took quite some time to finish (about a day).
+As we noted between these results we saw that the best solution was a simulation between the 200 and 300.
+So after that we did again about 300 solutions with 7 replications instead of 1.
+This gave us only a little amount of feasible solutions. 
+These solutions were again simulated only now with 30 replications for each simulation.
+This gave us a solution which was not bad at all, but it was not optimal as we have shown in section 8.
+For the last part we tried to adapt the solution OptQuest gave us manually.
+This lead to a better solution, because we could decrease the number of cashiers for Shift 1, with 1.
+The solution we eventually have is shown in \autoref{tab:opt}.
 
+\subsection{Optimal Solution}
 \begin{table}
 	\centering
 	\caption{optimal solution}
 	\begin{tabular}{l | l}
 		Shift number & Number of cashiers in this shift\\
-		A\_S1 & 2 \\
+		A\_S1 & 1 \\
 		A\_S2 & 2 \\
 		A\_S3 & 1 \\
 		A\_S4 & 3 \\
@@ -23,6 +34,132 @@ This corresponds to about 18 hours of opening time per lane.
 	\label{tab:opt}
 \end{table}
 
+\newcommand{\cc}{\cellcolor{cyan}}
+
+\begin{figure}
+	\centering
+
+	\renewcommand{\arraystretch}{0.6} % this reduces the vertical spacing between rows
+	
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+	\hline
+	0:00 & 2:00 & 4:00 & 6:00 & 8:00 & 10:00 & 12:00 & 14:00 & 16:00 & 18:00 & 20:00 & 22:00  \\
+	\hline
+	\hline
+	\cc & \cc & & & & & & & & & & \\ \hline 
+	& \cc & \cc & & & & & & & & & \\ \hline
+	& \cc & \cc & & & & & & & & & \\ \hline
+	& & \cc & \cc & & & & & & & & \\ \hline
+	& & & \cc & \cc & & & & & & & \\ \hline
+	& & & \cc & \cc & & & & & & & \\ \hline
+	& & & \cc & \cc & & & & & & & \\ \hline
+	& & & & \cc & \cc & & & & & & \\ \hline
+	& & & & & \cc & \cc & & & & & \\ \hline
+	& & & & & \cc & \cc & & & & & \\ \hline
+	& & & & & & \cc & \cc & & & & \\ \hline
+	& & & & & & & \cc & \cc & & & \\ \hline
+	& & & & & & & \cc & \cc & & & \\ \hline
+	& & & & & & & \cc & \cc & & & \\ \hline
+	& & & & & & & & \cc & \cc & & \\ \hline
+	& & & & & & & & & \cc & \cc & \\ \hline
+	& & & & & & & & & \cc & \cc & \\ \hline
+	& & & & & & & & & \cc & \cc & \\ \hline
+	\cc & & & & & & & & & & & \cc \\ \hline
+	\cc & & & & & & & & & & & \cc \\ \hline
+	\cc & & & & & & & & & & & \cc \\ 
+	\hline
+	\hline
+	4 & 3 & 3 & 4 & 4 & 3 & 3 & 4 & 4 & 4 & 3 & 3\\
+	\hline
+\end{tabular}
+\caption{The schedule. Each row represents one of 21 shifts.}
+\label{fig:schedule}
+\end{figure}
+
+\begin{table}
+	\centering
+\begin{tabular}{|c|c|c|}
+	\hline
+	& Hours & Percentage \\ \hline \hline
+	Scheduled Hours & 84.0 & 93.6\%\\
+	Extra Hours & 5.7 & 6.4\% \\
+	\hline
+	\hline
+	Total & 89.7 & 100\% \\
+	\hline
+\end{tabular}
+\caption{Average number of hours worked on a single day}
+\label{tab:hours}
+\end{table}
+
+\begin{table}
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline
+		All Vehicles & 0.53\% \\ \hline
+		Cars & 0.034 \% \\ \hline
+		Trucks & 3.36\% \\ \hline
+	\end{tabular}
+	\caption{Block rate percentage}
+	\label{tab:block}
+\end{table}
+
+\begin{table}
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline
+		Cars & 25m:31s \\ \hline
+		Trucks & 29m:16s \\ \hline
+	\end{tabular}
+	\caption{Average throughput time}
+	\label{tab:throughput}
+\end{table}
+
 The total cost of this schedule is 60,838.20 Eur, in comparison, the naive schedule for 30 days would cost 96,000 Eur.
 
-blabla other statistics
+
+\subsection{Optimal Solution for Decreased Demands}
+Another question asked by Bill was how must he adapt the schedule such that in the future, when cars become more fuel efficient and the demand goes down, he still has a good schedule. 
+To simulate this we lowered the arrival amounts with 10, 20 and 30\% and  also the amount of fuel needid with the same amounts. 
+The way of getting this solution was different from from the way we got it for the current schedule.
+This is all explained in appendix TODO.
+
+\begin{table}
+	\centering
+	\begin{tabular}{c|c|c|c|c|c|c|}
+		\cline{2-7}
+		& \multicolumn{2}{c|}{-10\%} & \multicolumn{2}{c|}{-20\%} & \multicolumn{2}{c|}{-30\%} \\ \cline{2-7} 
+		& Hours     & Percentage     & Hours     & Percentage     & Hours     & Percentage     \\ \hline
+		\multicolumn{1}{|c|}{Scheduled hours} & 68.00     & 92.0\%         & 64.00     & 93.3\%         & 56.00     & 93.5\%         \\ \hline
+		\multicolumn{1}{|c|}{Extra hours}     & 5.93      & 8.0\%          & 4.63      & 6.7\%          & 3.92      & 6.5\%          \\ \hline
+		\multicolumn{1}{|c|}{Total}           & 73.93     & 100\%          & 68.63     & 100\%          & 59.92     & 100\%          \\ \hline
+	\end{tabular}
+	\caption{Average number of hours worked on a single day for reduced traffic}
+	\label{tab:hours}
+\end{table}
+
+
+\begin{table}
+	\centering
+	\begin{tabular}{l|l|l|l|}
+		\cline{2-4}
+		& -10\% & -20\% & -30\% \\ \hline
+		\multicolumn{1}{|l|}{All vehicles} & 1.8\% & 0.7\% & 0.8\% \\ \hline
+		\multicolumn{1}{|l|}{Cars}         & 0.6\% & 0.2\% & 0.5\% \\ \hline
+		\multicolumn{1}{|l|}{Trucks}       & 8.5\% & 3.9\% & 2.7\% \\ \hline
+	\end{tabular}
+	\caption{Block rate percentage for reduced traffic}
+	\label{tab:blockRed}
+\end{table}
+
+\begin{table}
+	\centering
+	\begin{tabular}{c|c|c|c|}
+		\cline{2-4}
+		\multicolumn{1}{l|}{}        & \multicolumn{1}{l|}{-10\%} & \multicolumn{1}{l|}{-20\%} & \multicolumn{1}{l|}{-30\%} \\ \hline
+		\multicolumn{1}{|c|}{Cars}   & 51m:04s                    & 39m:54s                    & 35m:36s                    \\ \hline
+		\multicolumn{1}{|c|}{Trucks} & 50m:20s                    & 40m:22s                    & 36m:19s                    \\ \hline
+	\end{tabular}
+	\caption{Average throughput for reduced traffic}
+	\label{tab:throughputDec}
+\end{table}

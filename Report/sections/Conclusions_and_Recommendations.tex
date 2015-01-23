@@ -7,13 +7,17 @@ The question to be answered was what cashier schedule for the fuel station would
 \end{enumerate}
 Furthermore, Bill asked to find a schedule for when the demands would decrease (due to cars becoming more fuel efficient).
 
-In section \ref{sec:simulationresults} we described the results of the simulations done with OptQuest. The optimal solution has 21 cashiers working a shift, which costs \EUR{2242,50} a day, which is a 25$\%$ improvement with respect to a schedule where 5 cashiers would be working at all times.
+In section \ref{sec:simulationresults} we described the results of the simulations done with OptQuest. The optimal solution has 21 cashiers working a shift, which costs \EUR{2242,50} a day, which is a 30$\%$ improvement with respect to a schedule where 5 cashiers would be working at all times.
 
 With this optimal solution, the requirements are still fulfilled:
 \begin{enumerate}
-	\item Cars spend about 25 minutes on average from arrival to departure.
-	\item Trucks spend about 29 minutes on average from arrival to departure.
+	\item Cars spent about 25 minutes on average from arrival to departure.
+	\item Trucks spent about 29 minutes on average from arrival to departure.
 	\item 0.53$\%$ of all vehicles are blocked, which is below the threshold of 1$\%$.
 \end{enumerate}
 
-Regarding the schedule for decreased demands, we tested the required schedules for 10$\%$, 20$\%$ and 30$\%$ less arrivals. With 10$\%$ less arrivals we required a schedule with 73.93 hours which costs \EUR{1848,25}. With 20$\%$ less arrivals the cost would be \EUR{1715,75} and with 30$\%$ \EUR{1498}. With these results, the block rate would only be violated 
+Regarding the schedule for decreased demands, we tested the required schedules for 20$\%$ and 30$\%$ less arrivals. With 20$\%$ less arrivals we required a schedule with 68.63 hours which cost \EUR{1715,75}. This is a 46$\%$ improvement over the naive schedule mentioned above. With 30$\%$ less arrivals we needed 59.92 hours for a total cost of \EUR{1498} per day. This is a 53$\%$ improvement over the naive schedule. 
+
+With these results, the block rate would not be violated (0.7$\%$ and 0.8$\%$ for -20$\%$ and -30$\%$ respectively). But the throughput times were  violated for cars, as they spent about 40 minutes and about 35 minutes on average from arrival to departure, for -20$\%$ and -30$\%$ arrival rate respectively. So the schedules found by OptQuest did not completely satisfy the constraints. We could not find the cause of this problem, but as the solutions satisfy most constraints (only the throughput time for cars was violated and not by much), we still consider the schedules to be fairly reliable.
+
+So all in all we found a good solution which saves Bill 30$\%$ on cashier costs for the current demand, and fairly good solutions for decreased demands (as one constraint was violated a little) where the cashier cost was decreased by 46-53$\%$.
